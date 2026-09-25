@@ -1,0 +1,7 @@
+# Reference translation into the film
+
+Reference A: `不会代码但用HTML做了项目宣传片_...mp4` (69.6 s, 1280×720, 30 fps). Its strongest method is a persistent graphic world: repeated spacing, type, framed UI, a small set of colours, and a recurring character. Numbers, level states, panels and object relationships change inside that world. We borrow the repeated grid, framed interface, progress rail, cards and animated connections, but use Little Universe green, cream, dark ink and the real app icon.
+
+Reference B: `GPT_6直出视频效果到底如何_...mp4` (160.1 s, 1920×1080, 30 fps). It alternates concrete images with diagrams and annotations: an archive/document points into a real photograph, which becomes a map or comparison, then returns to evidence. We borrow that evidence-to-diagram-to-evidence movement for the Show Notes, comments and listening-history passages. We do not borrow the Vox colours or present isolated title slides.
+
+The final film uses ten narration beats. Each beat contains multiple timed changes; the visuals are driven by the generated voice durations in `src/timing.json`. Real user screenshots anchor the player, Show Notes, comments, listening total and sticker board. Official App Store screens change progressively during discovery. Two generated editorial illustrations add a listener and a remembered-place collage, labelled as illustrative where confusion is possible. Conceptual labels are deliberately distinct from app UI. The supplied profile total (128 h 27 m) is separate from the creator-specific 100-hour sticker.
