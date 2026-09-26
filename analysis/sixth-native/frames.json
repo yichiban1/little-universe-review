@@ -1,0 +1,450 @@
+[
+  {
+    "shot": "open-cover",
+    "chapter": "opening",
+    "time": 3.993,
+    "frame": 120,
+    "file": "analysis/sixth-native/open-cover.png"
+  },
+  {
+    "shot": "open-video",
+    "chapter": "opening",
+    "time": 6.284,
+    "frame": 189,
+    "file": "analysis/sixth-native/open-video.png"
+  },
+  {
+    "shot": "open-search",
+    "chapter": "opening",
+    "time": 7.826,
+    "frame": 235,
+    "file": "analysis/sixth-native/open-search.png"
+  },
+  {
+    "shot": "open-result",
+    "chapter": "opening",
+    "time": 10.521,
+    "frame": 316,
+    "file": "analysis/sixth-native/open-result.png"
+  },
+  {
+    "shot": "open-player",
+    "chapter": "opening",
+    "time": 14.298,
+    "frame": 429,
+    "file": "analysis/sixth-native/open-player.png"
+  },
+  {
+    "shot": "open-notes",
+    "chapter": "opening",
+    "time": 16.173,
+    "frame": 485,
+    "file": "analysis/sixth-native/open-notes.png"
+  },
+  {
+    "shot": "open-comments",
+    "chapter": "opening",
+    "time": 17.882,
+    "frame": 536,
+    "file": "analysis/sixth-native/open-comments.png"
+  },
+  {
+    "shot": "open-title",
+    "chapter": "opening",
+    "time": 19.062,
+    "frame": 572,
+    "file": "analysis/sixth-native/open-title.png"
+  },
+  {
+    "shot": "player-full",
+    "chapter": "player",
+    "time": 21.757,
+    "frame": 653,
+    "file": "analysis/sixth-native/player-full.png"
+  },
+  {
+    "shot": "player-art",
+    "chapter": "player",
+    "time": 23.465,
+    "frame": 704,
+    "file": "analysis/sixth-native/player-art.png"
+  },
+  {
+    "shot": "player-observation",
+    "chapter": "player",
+    "time": 27.715,
+    "frame": 831,
+    "file": "analysis/sixth-native/player-observation.png"
+  },
+  {
+    "shot": "player-title",
+    "chapter": "player",
+    "time": 31.548,
+    "frame": 946,
+    "file": "analysis/sixth-native/player-title.png"
+  },
+  {
+    "shot": "player-return",
+    "chapter": "player",
+    "time": 33.868,
+    "frame": 1016,
+    "file": "analysis/sixth-native/player-return.png"
+  },
+  {
+    "shot": "player-pocket",
+    "chapter": "player",
+    "time": 37.257,
+    "frame": 1118,
+    "file": "analysis/sixth-native/player-pocket.png"
+  },
+  {
+    "shot": "player-timeline",
+    "chapter": "player",
+    "time": 38.576,
+    "frame": 1157,
+    "file": "analysis/sixth-native/player-timeline.png"
+  },
+  {
+    "shot": "player-rewind",
+    "chapter": "player",
+    "time": 41.784,
+    "frame": 1254,
+    "file": "analysis/sixth-native/player-rewind.png"
+  },
+  {
+    "shot": "player-tap-hold",
+    "chapter": "player",
+    "time": 44.507,
+    "frame": 1335,
+    "file": "analysis/sixth-native/player-tap-hold.png"
+  },
+  {
+    "shot": "feed-enter",
+    "chapter": "discovery",
+    "time": 46.201,
+    "frame": 1386,
+    "file": "analysis/sixth-native/feed-enter.png"
+  },
+  {
+    "shot": "feed-topic",
+    "chapter": "discovery",
+    "time": 49.048,
+    "frame": 1471,
+    "file": "analysis/sixth-native/feed-topic.png"
+  },
+  {
+    "shot": "feed-search",
+    "chapter": "discovery",
+    "time": 52.423,
+    "frame": 1573,
+    "file": "analysis/sixth-native/feed-search.png"
+  },
+  {
+    "shot": "feed-programme",
+    "chapter": "discovery",
+    "time": 55.784,
+    "frame": 1674,
+    "file": "analysis/sixth-native/feed-programme.png"
+  },
+  {
+    "shot": "feed-discover",
+    "chapter": "discovery",
+    "time": 57.326,
+    "frame": 1720,
+    "file": "analysis/sixth-native/feed-discover.png"
+  },
+  {
+    "shot": "feed-select",
+    "chapter": "discovery",
+    "time": 59.104,
+    "frame": 1773,
+    "file": "analysis/sixth-native/feed-select.png"
+  },
+  {
+    "shot": "feed-daqing",
+    "chapter": "discovery",
+    "time": 63.159,
+    "frame": 1895,
+    "file": "analysis/sixth-native/feed-daqing.png"
+  },
+  {
+    "shot": "listen-widgets",
+    "chapter": "listening",
+    "time": 66.784,
+    "frame": 2004,
+    "file": "analysis/sixth-native/listen-widgets.png"
+  },
+  {
+    "shot": "listen-controls",
+    "chapter": "listening",
+    "time": 68.437,
+    "frame": 2053,
+    "file": "analysis/sixth-native/listen-controls.png"
+  },
+  {
+    "shot": "listen-lock",
+    "chapter": "listening",
+    "time": 70.618,
+    "frame": 2119,
+    "file": "analysis/sixth-native/listen-lock.png"
+  },
+  {
+    "shot": "listen-mini",
+    "chapter": "listening",
+    "time": 73.104,
+    "frame": 2193,
+    "file": "analysis/sixth-native/listen-mini.png"
+  },
+  {
+    "shot": "listen-mini-detail",
+    "chapter": "listening",
+    "time": 76.284,
+    "frame": 2289,
+    "file": "analysis/sixth-native/listen-mini-detail.png"
+  },
+  {
+    "shot": "listen-catch",
+    "chapter": "listening",
+    "time": 81.618,
+    "frame": 2449,
+    "file": "analysis/sixth-native/listen-catch.png"
+  },
+  {
+    "shot": "listen-back",
+    "chapter": "listening",
+    "time": 84.382,
+    "frame": 2531,
+    "file": "analysis/sixth-native/listen-back.png"
+  },
+  {
+    "shot": "notes-enter",
+    "chapter": "notes",
+    "time": 87.979,
+    "frame": 2639,
+    "file": "analysis/sixth-native/notes-enter.png"
+  },
+  {
+    "shot": "notes-open",
+    "chapter": "notes",
+    "time": 90.021,
+    "frame": 2701,
+    "file": "analysis/sixth-native/notes-open.png"
+  },
+  {
+    "shot": "notes-outline",
+    "chapter": "notes",
+    "time": 95.507,
+    "frame": 2865,
+    "file": "analysis/sixth-native/notes-outline.png"
+  },
+  {
+    "shot": "notes-stadium",
+    "chapter": "notes",
+    "time": 96.576,
+    "frame": 2897,
+    "file": "analysis/sixth-native/notes-stadium.png"
+  },
+  {
+    "shot": "notes-dorm",
+    "chapter": "notes",
+    "time": 98.132,
+    "frame": 2944,
+    "file": "analysis/sixth-native/notes-dorm.png"
+  },
+  {
+    "shot": "notes-olympic",
+    "chapter": "notes",
+    "time": 100.312,
+    "frame": 3009,
+    "file": "analysis/sixth-native/notes-olympic.png"
+  },
+  {
+    "shot": "notes-dvd",
+    "chapter": "notes",
+    "time": 102.673,
+    "frame": 3080,
+    "file": "analysis/sixth-native/notes-dvd.png"
+  },
+  {
+    "shot": "notes-dvd-hold",
+    "chapter": "notes",
+    "time": 106.715,
+    "frame": 3201,
+    "file": "analysis/sixth-native/notes-dvd-hold.png"
+  },
+  {
+    "shot": "notes-return",
+    "chapter": "notes",
+    "time": 111.076,
+    "frame": 3332,
+    "file": "analysis/sixth-native/notes-return.png"
+  },
+  {
+    "shot": "notes-outline-return",
+    "chapter": "notes",
+    "time": 114.687,
+    "frame": 3441,
+    "file": "analysis/sixth-native/notes-outline-return.png"
+  },
+  {
+    "shot": "notes-player-return",
+    "chapter": "notes",
+    "time": 118.757,
+    "frame": 3563,
+    "file": "analysis/sixth-native/notes-player-return.png"
+  },
+  {
+    "shot": "comments-feature",
+    "chapter": "comments",
+    "time": 121.937,
+    "frame": 3658,
+    "file": "analysis/sixth-native/comments-feature.png"
+  },
+  {
+    "shot": "comments-context",
+    "chapter": "comments",
+    "time": 127.09,
+    "frame": 3813,
+    "file": "analysis/sixth-native/comments-context.png"
+  },
+  {
+    "shot": "comments-open",
+    "chapter": "comments",
+    "time": 128.84,
+    "frame": 3865,
+    "file": "analysis/sixth-native/comments-open.png"
+  },
+  {
+    "shot": "comments-link",
+    "chapter": "comments",
+    "time": 132.757,
+    "frame": 3983,
+    "file": "analysis/sixth-native/comments-link.png"
+  },
+  {
+    "shot": "comments-first",
+    "chapter": "comments",
+    "time": 136.451,
+    "frame": 4094,
+    "file": "analysis/sixth-native/comments-first.png"
+  },
+  {
+    "shot": "comments-second",
+    "chapter": "comments",
+    "time": 139.312,
+    "frame": 4179,
+    "file": "analysis/sixth-native/comments-second.png"
+  },
+  {
+    "shot": "comments-return",
+    "chapter": "comments",
+    "time": 143.298,
+    "frame": 4299,
+    "file": "analysis/sixth-native/comments-return.png"
+  },
+  {
+    "shot": "history-hours",
+    "chapter": "history",
+    "time": 144.423,
+    "frame": 4333,
+    "file": "analysis/sixth-native/history-hours.png"
+  },
+  {
+    "shot": "history-emphasis",
+    "chapter": "history",
+    "time": 148.284,
+    "frame": 4449,
+    "file": "analysis/sixth-native/history-emphasis.png"
+  },
+  {
+    "shot": "history-stickers",
+    "chapter": "history",
+    "time": 149.937,
+    "frame": 4498,
+    "file": "analysis/sixth-native/history-stickers.png"
+  },
+  {
+    "shot": "history-100",
+    "chapter": "history",
+    "time": 152.257,
+    "frame": 4568,
+    "file": "analysis/sixth-native/history-100.png"
+  },
+  {
+    "shot": "history-return",
+    "chapter": "history",
+    "time": 154.909,
+    "frame": 4647,
+    "file": "analysis/sixth-native/history-return.png"
+  },
+  {
+    "shot": "critical-personal",
+    "chapter": "critical",
+    "time": 159.257,
+    "frame": 4778,
+    "file": "analysis/sixth-native/critical-personal.png"
+  },
+  {
+    "shot": "critical-web",
+    "chapter": "critical",
+    "time": 161.59,
+    "frame": 4848,
+    "file": "analysis/sixth-native/critical-web.png"
+  },
+  {
+    "shot": "critical-phone",
+    "chapter": "critical",
+    "time": 163.354,
+    "frame": 4901,
+    "file": "analysis/sixth-native/critical-phone.png"
+  },
+  {
+    "shot": "critical-fit",
+    "chapter": "critical",
+    "time": 168.479,
+    "frame": 5054,
+    "file": "analysis/sixth-native/critical-fit.png"
+  },
+  {
+    "shot": "end-xdoctor",
+    "chapter": "ending",
+    "time": 170.326,
+    "frame": 5110,
+    "file": "analysis/sixth-native/end-xdoctor.png"
+  },
+  {
+    "shot": "end-shows",
+    "chapter": "ending",
+    "time": 172.423,
+    "frame": 5173,
+    "file": "analysis/sixth-native/end-shows.png"
+  },
+  {
+    "shot": "end-notes",
+    "chapter": "ending",
+    "time": 174.034,
+    "frame": 5221,
+    "file": "analysis/sixth-native/end-notes.png"
+  },
+  {
+    "shot": "end-comments",
+    "chapter": "ending",
+    "time": 175.812,
+    "frame": 5274,
+    "file": "analysis/sixth-native/end-comments.png"
+  },
+  {
+    "shot": "end-history",
+    "chapter": "ending",
+    "time": 178.118,
+    "frame": 5344,
+    "file": "analysis/sixth-native/end-history.png"
+  },
+  {
+    "shot": "end-icon",
+    "chapter": "ending",
+    "time": 183.84,
+    "frame": 5515,
+    "file": "analysis/sixth-native/end-icon.png"
+  }
+]

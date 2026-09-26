@@ -1,0 +1,834 @@
+[
+  {
+    "shot": "open-cover",
+    "chapter": "opening",
+    "time": 3.993,
+    "frame": 120,
+    "file": "analysis/sixth-native/open-cover.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "1ee4e813dc0839431f7682b5d44a6b128398520d7382f0a324decba88f50442e",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "open-video",
+    "chapter": "opening",
+    "time": 6.284,
+    "frame": 189,
+    "file": "analysis/sixth-native/open-video.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "b05a1aee5a19528d2f1fc9c0505dedb94ee7eaa7fb0dc1282198fc71e45b862b",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "open-search",
+    "chapter": "opening",
+    "time": 7.826,
+    "frame": 235,
+    "file": "analysis/sixth-native/open-search.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "6c94ded1109c805eba08f1e9ecfde6cde67c3e8f302c364959a49ff1cf6c5c4f",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "open-result",
+    "chapter": "opening",
+    "time": 10.521,
+    "frame": 316,
+    "file": "analysis/sixth-native/open-result.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "91ffa20cc02c1c509c2ef9dee82cd0db54c432f8e345405af6c39c3a03ba5a17",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "open-player",
+    "chapter": "opening",
+    "time": 14.298,
+    "frame": 429,
+    "file": "analysis/sixth-native/open-player.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "2795670d50e2fa8150c425fecfdd801a0262af3300cad6424d0498ee765454bd",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "open-notes",
+    "chapter": "opening",
+    "time": 16.173,
+    "frame": 485,
+    "file": "analysis/sixth-native/open-notes.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "d60fb9688c887b6c0685d58c7ffbcf34401d67c88feb1cc9ad77ded09a44ba8c",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "open-comments",
+    "chapter": "opening",
+    "time": 17.882,
+    "frame": 536,
+    "file": "analysis/sixth-native/open-comments.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "bea11938673f04f5b5524d5c27f538b5ba55a7a2672df621e35634b54ce9be7b",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "open-title",
+    "chapter": "opening",
+    "time": 19.062,
+    "frame": 572,
+    "file": "analysis/sixth-native/open-title.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "e4fb2fdf66804194040196a201fd1cba8dd1ab3ef882b2631309ed165897ba7a",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "player-full",
+    "chapter": "player",
+    "time": 21.757,
+    "frame": 653,
+    "file": "analysis/sixth-native/player-full.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "e4f4d053101cf1ef7d7017ae0a5a42a9c891e6428e77ec162dc4a2d495c30353",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "player-art",
+    "chapter": "player",
+    "time": 23.465,
+    "frame": 704,
+    "file": "analysis/sixth-native/player-art.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "c3eac138d4b401b22334a432f4a280b23c40fb1c4461cbc79650ba91e80cccc6",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "player-observation",
+    "chapter": "player",
+    "time": 27.715,
+    "frame": 831,
+    "file": "analysis/sixth-native/player-observation.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "3de82b8e6e48166a118d84563bbfbf82608a7ec83936eb250dd4cea6a7668f6d",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "player-title",
+    "chapter": "player",
+    "time": 31.548,
+    "frame": 946,
+    "file": "analysis/sixth-native/player-title.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "575c9b0b691f1516df096edc8fbcbc7c0fedf3a3d54e47b9d29175b4c766abba",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "player-return",
+    "chapter": "player",
+    "time": 33.868,
+    "frame": 1016,
+    "file": "analysis/sixth-native/player-return.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "2bf1d7a9151b3d40d3d4a621d46b9ec3cacd31582cfaac77d05dc1082a5b4524",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "player-pocket",
+    "chapter": "player",
+    "time": 37.257,
+    "frame": 1118,
+    "file": "analysis/sixth-native/player-pocket.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "73308fc4c141ba93c499556d1b633c9b875799ee6a37ddd428d4ffbc2c8bc22b",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "player-timeline",
+    "chapter": "player",
+    "time": 38.576,
+    "frame": 1157,
+    "file": "analysis/sixth-native/player-timeline.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "29aa4ece2607c8e44e359318b43cc69fe84ff563d929926949eb5a511ad45918",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "player-rewind",
+    "chapter": "player",
+    "time": 41.784,
+    "frame": 1254,
+    "file": "analysis/sixth-native/player-rewind.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "a66d4a8a7b7efe6aef012006d4d604921c5daee3ce216bc308e339476af5c4e9",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "player-tap-hold",
+    "chapter": "player",
+    "time": 44.507,
+    "frame": 1335,
+    "file": "analysis/sixth-native/player-tap-hold.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "69b51a4452b14ea3cf630ec93cc6a290ead08f2f05d0588bb69b5cb12013de27",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "feed-enter",
+    "chapter": "discovery",
+    "time": 46.201,
+    "frame": 1386,
+    "file": "analysis/sixth-native/feed-enter.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "8944bcd5fa8f2e16e9c17de8504587551baf3d6ed9eb9e21f96cc9b415cf4402",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "feed-topic",
+    "chapter": "discovery",
+    "time": 49.048,
+    "frame": 1471,
+    "file": "analysis/sixth-native/feed-topic.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "28be67e0f335b574279702257d60e929dbf7a699083314f5d1f5e2afc9b749c4",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "feed-search",
+    "chapter": "discovery",
+    "time": 52.423,
+    "frame": 1573,
+    "file": "analysis/sixth-native/feed-search.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "186073f02abbdc64cda0c4ea3ffe20fee9b0360f595d717e4b79acab3064e095",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "feed-programme",
+    "chapter": "discovery",
+    "time": 55.784,
+    "frame": 1674,
+    "file": "analysis/sixth-native/feed-programme.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "625231f66551209dab584532bb562dae149d108c32866a82da711ee7c4a623ea",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "feed-discover",
+    "chapter": "discovery",
+    "time": 57.326,
+    "frame": 1720,
+    "file": "analysis/sixth-native/feed-discover.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "35683d0669a87ab8f475307b5f8eafcd68a830ba0abe8c88f4d04deacf7f8826",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "feed-select",
+    "chapter": "discovery",
+    "time": 59.104,
+    "frame": 1773,
+    "file": "analysis/sixth-native/feed-select.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "1783af5c24c4dbc3b751cb3bdc1c2b26c2a29fc33ac023ef0ae45b7c21e8319b",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "feed-daqing",
+    "chapter": "discovery",
+    "time": 63.159,
+    "frame": 1895,
+    "file": "analysis/sixth-native/feed-daqing.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "4a1eb50cbcc2dbd7c8f85a5904b012efc451013150a7e3c132ae899ca30504a3",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "listen-widgets",
+    "chapter": "listening",
+    "time": 66.784,
+    "frame": 2004,
+    "file": "analysis/sixth-native/listen-widgets.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "f88a9ef6a9f74d83295889597d621a46431e9f3934c83158f0d4b6139951bc72",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "listen-controls",
+    "chapter": "listening",
+    "time": 68.437,
+    "frame": 2053,
+    "file": "analysis/sixth-native/listen-controls.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "25502c6abfe6caf01384529000df6af9c3dcd7c9c6ce7922f848e7d3f93df408",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "listen-lock",
+    "chapter": "listening",
+    "time": 70.618,
+    "frame": 2119,
+    "file": "analysis/sixth-native/listen-lock.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "09086a6140a543ec5d40495a6a7e9af80db5f3cacf3f6abcb21c91f8604e0091",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "listen-mini",
+    "chapter": "listening",
+    "time": 73.104,
+    "frame": 2193,
+    "file": "analysis/sixth-native/listen-mini.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "aee9856cfab8f75e19617a26c29265c1e6793d1ada11d353be544eb481454b6e",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "listen-mini-detail",
+    "chapter": "listening",
+    "time": 76.284,
+    "frame": 2289,
+    "file": "analysis/sixth-native/listen-mini-detail.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "4ad178420bc7c69e3d16762eb44d7119fbc801174316b4847f05926833706c26",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "listen-catch",
+    "chapter": "listening",
+    "time": 81.618,
+    "frame": 2449,
+    "file": "analysis/sixth-native/listen-catch.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "f24865b92a9cb4ee495b066d5de2444b5a18e98f53c13204153a8cd1ec7a1ed2",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "listen-back",
+    "chapter": "listening",
+    "time": 84.382,
+    "frame": 2531,
+    "file": "analysis/sixth-native/listen-back.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "6fc3128fed2c8be8fcb06d2a089204cd0897a3c712718378894e13cc50e18c86",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "notes-enter",
+    "chapter": "notes",
+    "time": 87.979,
+    "frame": 2639,
+    "file": "analysis/sixth-native/notes-enter.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "816283d83c5ca42c6413b121fab8089d4a2848ff0ac5f494115a684969a64d54",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "notes-open",
+    "chapter": "notes",
+    "time": 90.021,
+    "frame": 2701,
+    "file": "analysis/sixth-native/notes-open.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "307c34fb9495d7275ce6eba95d5d1b729b7b3374524a2e3598901a3c92382621",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "notes-outline",
+    "chapter": "notes",
+    "time": 95.507,
+    "frame": 2865,
+    "file": "analysis/sixth-native/notes-outline.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "9bebc03ca9339a24976fa9f177c5b5e175c0e39c25038f50c62d5e5fc7fbcdbb",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "notes-stadium",
+    "chapter": "notes",
+    "time": 96.576,
+    "frame": 2897,
+    "file": "analysis/sixth-native/notes-stadium.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "769a07c0cba137acb0bdb6330dcc9356e02c3ed4fbce323273e52e5b5dcc12f5",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "notes-dorm",
+    "chapter": "notes",
+    "time": 98.132,
+    "frame": 2944,
+    "file": "analysis/sixth-native/notes-dorm.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "150887b06c661acc4f2282ba7a6653d8d63b475bfc92d95d78ad13feb66c4e6e",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "notes-olympic",
+    "chapter": "notes",
+    "time": 100.312,
+    "frame": 3009,
+    "file": "analysis/sixth-native/notes-olympic.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "d6faed95db9a75a37c61ff5851d53e52bd4cfa19ddcbe96b0423ccacc0cc4867",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "notes-dvd",
+    "chapter": "notes",
+    "time": 102.673,
+    "frame": 3080,
+    "file": "analysis/sixth-native/notes-dvd.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "82960005bd69aae83a693246505d1e15336ba865f92c8532ea760cac5ddca37d",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "notes-dvd-hold",
+    "chapter": "notes",
+    "time": 106.715,
+    "frame": 3201,
+    "file": "analysis/sixth-native/notes-dvd-hold.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "8c6d4d61c0df459f307def0f49255d6be215f3b4f9e4804bd2b9091bf6646c67",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "notes-return",
+    "chapter": "notes",
+    "time": 111.076,
+    "frame": 3332,
+    "file": "analysis/sixth-native/notes-return.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "110d9e4f74d118ef8c70be79db93045ca97078b1ee7243f3bec5d89878a65d27",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "notes-outline-return",
+    "chapter": "notes",
+    "time": 114.687,
+    "frame": 3441,
+    "file": "analysis/sixth-native/notes-outline-return.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "55fb2970bad77c116c9696a3bb9ebec1ea57a4ab52b65ab383ed65967c93edcb",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "notes-player-return",
+    "chapter": "notes",
+    "time": 118.757,
+    "frame": 3563,
+    "file": "analysis/sixth-native/notes-player-return.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "bd2e2c612782d4cf134fb20b85fdc1cead29169fdfe93cad050c9ce37ea252e0",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "comments-feature",
+    "chapter": "comments",
+    "time": 121.937,
+    "frame": 3658,
+    "file": "analysis/sixth-native/comments-feature.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "9ad28ce10a13945ffcde91c5dc4306f94d0b8e8bb8522fade11c9e159ad37a41",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "comments-context",
+    "chapter": "comments",
+    "time": 127.09,
+    "frame": 3813,
+    "file": "analysis/sixth-native/comments-context.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "999dacc13232e787fd10eea7639614356681597c726c600d03b6539a3b7014cc",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "comments-open",
+    "chapter": "comments",
+    "time": 128.84,
+    "frame": 3865,
+    "file": "analysis/sixth-native/comments-open.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "acf28d02d7424d4a5ed5ff876739e1adf9e28a1afa29fa302a5ede9c630a40e6",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "comments-link",
+    "chapter": "comments",
+    "time": 132.757,
+    "frame": 3983,
+    "file": "analysis/sixth-native/comments-link.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "99e0b13183d6a6574a4d68907f9c45ba8f2bfe583f009baa0d89b632a8c00575",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "comments-first",
+    "chapter": "comments",
+    "time": 136.451,
+    "frame": 4094,
+    "file": "analysis/sixth-native/comments-first.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "9ad278f0cb4da71bbdcc4786f567a3fa09a17994b99236f2701b043150094e5a",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "comments-second",
+    "chapter": "comments",
+    "time": 139.312,
+    "frame": 4179,
+    "file": "analysis/sixth-native/comments-second.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "8c8fc8a73f2b6ac173a86ddbc20d460474c32fa294a9ccd71857b1c7ec2d0b9a",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "comments-return",
+    "chapter": "comments",
+    "time": 143.298,
+    "frame": 4299,
+    "file": "analysis/sixth-native/comments-return.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "2849b8592a0d91998c9963e09211ae51ffcda6b9c9cbc37bb93896993115cbca",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "history-hours",
+    "chapter": "history",
+    "time": 144.423,
+    "frame": 4333,
+    "file": "analysis/sixth-native/history-hours.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "9915e5333dc1c2d8a35234980825abb0d13cb2c43d33edbb3a04e73e0e255db3",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "history-emphasis",
+    "chapter": "history",
+    "time": 148.284,
+    "frame": 4449,
+    "file": "analysis/sixth-native/history-emphasis.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "86e07c8ba8ac9dd82ef059ab87dbcb9961702af06becf27c9c046117e5fb9725",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "history-stickers",
+    "chapter": "history",
+    "time": 149.937,
+    "frame": 4498,
+    "file": "analysis/sixth-native/history-stickers.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "22ea4e0ccabde5e8f820eb91e4059ea09da43c56b61fa086963df678d9f8bce4",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "history-100",
+    "chapter": "history",
+    "time": 152.257,
+    "frame": 4568,
+    "file": "analysis/sixth-native/history-100.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "24b924fbdfde3bd7d53d648adf877ea4b35bd321181a9dd0f871bd09212c3c00",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "history-return",
+    "chapter": "history",
+    "time": 154.909,
+    "frame": 4647,
+    "file": "analysis/sixth-native/history-return.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "57d864c581f857bc99bba49dfbd16250c18871abbd8c953dfcd7493c9786906d",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "critical-personal",
+    "chapter": "critical",
+    "time": 159.257,
+    "frame": 4778,
+    "file": "analysis/sixth-native/critical-personal.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "1f3ff2fcb5998ecfa64f1c472f4cb88727ac81360dbc955aed99934aba0ab990",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "critical-web",
+    "chapter": "critical",
+    "time": 161.59,
+    "frame": 4848,
+    "file": "analysis/sixth-native/critical-web.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "3d68b9a502780b51f400807a666f8fec719798aacc3f9b57f4807a85c512266d",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "critical-phone",
+    "chapter": "critical",
+    "time": 163.354,
+    "frame": 4901,
+    "file": "analysis/sixth-native/critical-phone.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "d5f3f17a1bf24ef0806bcc57bad4bff753e44f2060839a154cf58ae4c501ecb0",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "critical-fit",
+    "chapter": "critical",
+    "time": 168.479,
+    "frame": 5054,
+    "file": "analysis/sixth-native/critical-fit.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "25b4615a13e4af9d8f0a2ac0dd40ef2b299a7036d7c52f93ba98f0520d4bccaf",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "end-xdoctor",
+    "chapter": "ending",
+    "time": 170.326,
+    "frame": 5110,
+    "file": "analysis/sixth-native/end-xdoctor.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "54354b0f693efea9817c7dd166d454ecfbd3c883199853396d228be7d70a17e9",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "end-shows",
+    "chapter": "ending",
+    "time": 172.423,
+    "frame": 5173,
+    "file": "analysis/sixth-native/end-shows.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "b83e6cec4ffcf4de8f2462765966600b09fc36f583fedbabd328be5ec39f5cfe",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "end-notes",
+    "chapter": "ending",
+    "time": 174.034,
+    "frame": 5221,
+    "file": "analysis/sixth-native/end-notes.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "978c2eb75a9ce195a2b7ef4fb2739cd652e6726a6d5df5694748d342960a257a",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "end-comments",
+    "chapter": "ending",
+    "time": 175.812,
+    "frame": 5274,
+    "file": "analysis/sixth-native/end-comments.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "c822e7d48a3984c62eb0b09012ac6c8761167a7fb4a98d30dec6c4052b7bb2ab",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "end-history",
+    "chapter": "ending",
+    "time": 178.118,
+    "frame": 5344,
+    "file": "analysis/sixth-native/end-history.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "c05d0587debdbe3326aa2701f4e67fc3dc5e66e7413e9aae60eb21a483cd2ca1",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  },
+  {
+    "shot": "end-icon",
+    "chapter": "ending",
+    "time": 183.84,
+    "frame": 5515,
+    "file": "analysis/sixth-native/end-icon.png",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "76a9fe012951610d98af66f82b228a7bd7e0c3078de5bf254f05745233b613f4",
+    "review": "inspected at original size; mini-player corrections rechecked after final render"
+  }
+]

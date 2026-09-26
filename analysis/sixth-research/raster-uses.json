@@ -1,0 +1,3570 @@
+{
+  "fifth": [
+    {
+      "shot": "open-cover",
+      "chapter": "opening",
+      "kind": "WebPage",
+      "name": "web-xdoctor-programme.png",
+      "original": [
+        572,
+        770
+      ],
+      "origin": "",
+      "crop": [
+        572,
+        601.3
+      ],
+      "display": [
+        780.0,
+        820.0
+      ],
+      "factor": 1.3636,
+      "ui": true,
+      "grade": "BORDERLINE"
+    },
+    {
+      "shot": "open-cover",
+      "chapter": "opening",
+      "kind": "Picture",
+      "name": "xdoctor-cover.jpg",
+      "original": [
+        300,
+        300
+      ],
+      "origin": "",
+      "crop": [
+        300.0,
+        300.0
+      ],
+      "display": [
+        440.0,
+        440.0
+      ],
+      "factor": 1.4667,
+      "ui": false,
+      "grade": "BORDERLINE"
+    },
+    {
+      "shot": "open-video",
+      "chapter": "opening",
+      "kind": "Picture",
+      "name": "xdoctor-video-thumbnail.jpg",
+      "original": [
+        1280,
+        720
+      ],
+      "origin": "",
+      "crop": [
+        1280.0,
+        718.9
+      ],
+      "display": [
+        1460.0,
+        820.0
+      ],
+      "factor": 1.1406,
+      "ui": false,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "open-video",
+      "chapter": "opening",
+      "kind": "Picture",
+      "name": "xdoctor-cover.jpg",
+      "original": [
+        300,
+        300
+      ],
+      "origin": "",
+      "crop": [
+        300.0,
+        300.0
+      ],
+      "display": [
+        170.0,
+        170.0
+      ],
+      "factor": 0.5667,
+      "ui": false,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "open-search",
+      "chapter": "opening",
+      "kind": "Picture",
+      "name": "xdoctor-video-thumbnail.jpg",
+      "original": [
+        1280,
+        720
+      ],
+      "origin": "",
+      "crop": [
+        1278.5,
+        720.0
+      ],
+      "display": [
+        950.0,
+        535.0
+      ],
+      "factor": 0.7431,
+      "ui": false,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "open-result",
+      "chapter": "opening",
+      "kind": "WebPage",
+      "name": "web-xdoctor-2008.png",
+      "original": [
+        572,
+        574
+      ],
+      "origin": "",
+      "crop": [
+        572,
+        510.9
+      ],
+      "display": [
+        1310.0,
+        1170.0
+      ],
+      "factor": 2.2902,
+      "ui": true,
+      "grade": "UNACCEPTABLE"
+    },
+    {
+      "shot": "open-player",
+      "chapter": "opening",
+      "kind": "Phone",
+      "name": "ui-player.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        521.0,
+        1132.7
+      ],
+      "factor": 0.432,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "open-notes",
+      "chapter": "opening",
+      "kind": "Phone",
+      "name": "ui-player.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        450.0,
+        978.4
+      ],
+      "factor": 0.3731,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "open-notes",
+      "chapter": "opening",
+      "kind": "Phone",
+      "name": "ui-notes-photos.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        450.0,
+        978.4
+      ],
+      "factor": 0.3731,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "open-comments",
+      "chapter": "opening",
+      "kind": "Phone",
+      "name": "ui-notes-photos.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        445.0,
+        967.5
+      ],
+      "factor": 0.369,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "open-comments",
+      "chapter": "opening",
+      "kind": "Phone",
+      "name": "ui-comments-redacted.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        445.0,
+        967.5
+      ],
+      "factor": 0.369,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "open-title",
+      "chapter": "opening",
+      "kind": "Picture",
+      "name": "little-universe-icon.png",
+      "original": [
+        1200,
+        1200
+      ],
+      "origin": "",
+      "crop": [
+        1200.0,
+        1200.0
+      ],
+      "display": [
+        535.0,
+        535.0
+      ],
+      "factor": 0.4458,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "player-full",
+      "chapter": "player",
+      "kind": "Phone",
+      "name": "ui-player.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        468.0,
+        1017.5
+      ],
+      "factor": 0.3881,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "player-art",
+      "chapter": "player",
+      "kind": "Crop",
+      "name": "ui-player.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        930.0,
+        925.0
+      ],
+      "display": [
+        2020.0,
+        2009.1
+      ],
+      "factor": 2.172,
+      "ui": true,
+      "grade": "UNACCEPTABLE"
+    },
+    {
+      "shot": "player-title",
+      "chapter": "player",
+      "kind": "Crop",
+      "name": "web-xdoctor-2008.png",
+      "original": [
+        572,
+        574
+      ],
+      "origin": "",
+      "crop": [
+        572.0,
+        103.0
+      ],
+      "display": [
+        1790.0,
+        322.3
+      ],
+      "factor": 3.1294,
+      "ui": true,
+      "grade": "UNACCEPTABLE"
+    },
+    {
+      "shot": "player-return",
+      "chapter": "player",
+      "kind": "Phone",
+      "name": "ui-player.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        486.7,
+        1058.2
+      ],
+      "factor": 0.4036,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "player-timeline",
+      "chapter": "player",
+      "kind": "Crop",
+      "name": "ui-player.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1135.0,
+        660.0
+      ],
+      "display": [
+        1580.0,
+        918.8
+      ],
+      "factor": 1.3921,
+      "ui": true,
+      "grade": "BORDERLINE"
+    },
+    {
+      "shot": "player-rewind",
+      "chapter": "player",
+      "kind": "Crop",
+      "name": "ui-player.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1160.0,
+        590.0
+      ],
+      "display": [
+        1640.0,
+        834.1
+      ],
+      "factor": 1.4138,
+      "ui": true,
+      "grade": "BORDERLINE"
+    },
+    {
+      "shot": "feed-enter",
+      "chapter": "discovery",
+      "kind": "Picture",
+      "name": "official-home-subscriptions.png",
+      "original": [
+        843,
+        1322
+      ],
+      "origin": "",
+      "crop": [
+        843,
+        1322
+      ],
+      "display": [
+        510.0,
+        799.8
+      ],
+      "factor": 0.605,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "feed-search",
+      "chapter": "discovery",
+      "kind": "Picture",
+      "name": "appstore-6.jpg",
+      "original": [
+        1242,
+        2208
+      ],
+      "origin": "",
+      "crop": [
+        1241.3,
+        2208.0
+      ],
+      "display": [
+        800.0,
+        1423.0
+      ],
+      "factor": 0.6445,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "feed-discover",
+      "chapter": "discovery",
+      "kind": "WebPage",
+      "name": "web-stochastic-programme.png",
+      "original": [
+        572,
+        770
+      ],
+      "origin": "",
+      "crop": [
+        572,
+        566.9
+      ],
+      "display": [
+        1120.0,
+        1110.0
+      ],
+      "factor": 1.958,
+      "ui": true,
+      "grade": "UNACCEPTABLE"
+    },
+    {
+      "shot": "feed-select",
+      "chapter": "discovery",
+      "kind": "WebPage",
+      "name": "web-stochastic-episode.png",
+      "original": [
+        572,
+        579
+      ],
+      "origin": "",
+      "crop": [
+        572,
+        566.9
+      ],
+      "display": [
+        1120.0,
+        1110.0
+      ],
+      "factor": 1.958,
+      "ui": true,
+      "grade": "UNACCEPTABLE"
+    },
+    {
+      "shot": "notes-enter",
+      "chapter": "notes",
+      "kind": "Crop",
+      "name": "web-xdoctor-2008.png",
+      "original": [
+        572,
+        574
+      ],
+      "origin": "",
+      "crop": [
+        572.0,
+        103.0
+      ],
+      "display": [
+        1720.0,
+        309.7
+      ],
+      "factor": 3.007,
+      "ui": true,
+      "grade": "UNACCEPTABLE"
+    },
+    {
+      "shot": "notes-open",
+      "chapter": "notes",
+      "kind": "Phone",
+      "name": "ui-notes-text.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        480.0,
+        1043.6
+      ],
+      "factor": 0.398,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "notes-outline",
+      "chapter": "notes",
+      "kind": "Crop",
+      "name": "ui-notes-text.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1135.0,
+        1420.0
+      ],
+      "display": [
+        1450.0,
+        1814.1
+      ],
+      "factor": 1.2775,
+      "ui": true,
+      "grade": "BORDERLINE"
+    },
+    {
+      "shot": "notes-stadium",
+      "chapter": "notes",
+      "kind": "Picture",
+      "name": "notes-stadium.png",
+      "original": [
+        500,
+        333
+      ],
+      "origin": "",
+      "crop": [
+        261.6,
+        333.0
+      ],
+      "display": [
+        605.0,
+        770.0
+      ],
+      "factor": 2.3123,
+      "ui": false,
+      "grade": "UNACCEPTABLE"
+    },
+    {
+      "shot": "notes-stadium",
+      "chapter": "notes",
+      "kind": "Phone",
+      "name": "ui-notes-photos.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        480.0,
+        1043.6
+      ],
+      "factor": 0.398,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "notes-dorm",
+      "chapter": "notes",
+      "kind": "Picture",
+      "name": "notes-dorm.png",
+      "original": [
+        300,
+        200
+      ],
+      "origin": "",
+      "crop": [
+        157.1,
+        200.0
+      ],
+      "display": [
+        605.0,
+        770.0
+      ],
+      "factor": 3.85,
+      "ui": false,
+      "grade": "UNACCEPTABLE"
+    },
+    {
+      "shot": "notes-dorm",
+      "chapter": "notes",
+      "kind": "Phone",
+      "name": "ui-notes-photos.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        480.0,
+        1043.6
+      ],
+      "factor": 0.398,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "notes-olympic",
+      "chapter": "notes",
+      "kind": "Phone",
+      "name": "ui-notes-photos.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        480.0,
+        1043.6
+      ],
+      "factor": 0.398,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "notes-olympic",
+      "chapter": "notes",
+      "kind": "Picture",
+      "name": "notes-beijing.jpg",
+      "original": [
+        1087,
+        513
+      ],
+      "origin": "550 \u00d7 366 origin; mobile crop already enlarged",
+      "crop": [
+        550.0,
+        259.6
+      ],
+      "display": [
+        1320.0,
+        623.0
+      ],
+      "factor": 2.4001,
+      "ui": false,
+      "grade": "UNACCEPTABLE"
+    },
+    {
+      "shot": "notes-dvd",
+      "chapter": "notes",
+      "kind": "Phone",
+      "name": "ui-notes-photos.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        380.0,
+        826.2
+      ],
+      "factor": 0.3151,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "notes-dvd",
+      "chapter": "notes",
+      "kind": "Picture",
+      "name": "notes-beijing.jpg",
+      "original": [
+        1087,
+        513
+      ],
+      "origin": "550 \u00d7 366 origin; mobile crop already enlarged",
+      "crop": [
+        550.0,
+        259.6
+      ],
+      "display": [
+        1320.0,
+        623.0
+      ],
+      "factor": 2.4001,
+      "ui": false,
+      "grade": "UNACCEPTABLE"
+    },
+    {
+      "shot": "notes-dvd",
+      "chapter": "notes",
+      "kind": "Picture",
+      "name": "notes-dvd.jpg",
+      "original": [
+        1087,
+        713
+      ],
+      "origin": "",
+      "crop": [
+        1086.4,
+        713.0
+      ],
+      "display": [
+        1190.0,
+        781.0
+      ],
+      "factor": 1.0954,
+      "ui": false,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "notes-dvd-hold",
+      "chapter": "notes",
+      "kind": "Picture",
+      "name": "notes-dvd.jpg",
+      "original": [
+        1087,
+        713
+      ],
+      "origin": "",
+      "crop": [
+        1085.9,
+        713.0
+      ],
+      "display": [
+        1660.0,
+        1090.0
+      ],
+      "factor": 1.5288,
+      "ui": false,
+      "grade": "UNACCEPTABLE"
+    },
+    {
+      "shot": "notes-return",
+      "chapter": "notes",
+      "kind": "Phone",
+      "name": "ui-notes-photos.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        400.0,
+        869.7
+      ],
+      "factor": 0.3317,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "notes-return",
+      "chapter": "notes",
+      "kind": "Picture",
+      "name": "notes-dvd.jpg",
+      "original": [
+        1087,
+        713
+      ],
+      "origin": "",
+      "crop": [
+        1085.9,
+        713.0
+      ],
+      "display": [
+        1660.0,
+        1090.0
+      ],
+      "factor": 1.5288,
+      "ui": false,
+      "grade": "UNACCEPTABLE"
+    },
+    {
+      "shot": "notes-outline-return",
+      "chapter": "notes",
+      "kind": "Phone",
+      "name": "ui-notes-text.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        475.0,
+        1032.7
+      ],
+      "factor": 0.3939,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "notes-outline-return",
+      "chapter": "notes",
+      "kind": "Crop",
+      "name": "ui-notes-text.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1135.0,
+        800.0
+      ],
+      "display": [
+        620.0,
+        437.0
+      ],
+      "factor": 0.5463,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "notes-player-return",
+      "chapter": "notes",
+      "kind": "Crop",
+      "name": "ui-notes-text.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206.0,
+        265.0
+      ],
+      "display": [
+        1920.0,
+        421.9
+      ],
+      "factor": 1.592,
+      "ui": true,
+      "grade": "UNACCEPTABLE"
+    },
+    {
+      "shot": "comments-open",
+      "chapter": "comments",
+      "kind": "WebPage",
+      "name": "web-xdoctor-discussion.png",
+      "original": [
+        572,
+        778
+      ],
+      "origin": "",
+      "crop": [
+        572,
+        732.7
+      ],
+      "display": [
+        890.0,
+        1140.0
+      ],
+      "factor": 1.5559,
+      "ui": true,
+      "grade": "UNACCEPTABLE"
+    },
+    {
+      "shot": "comments-open",
+      "chapter": "comments",
+      "kind": "Phone",
+      "name": "ui-comments-redacted.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        455.0,
+        989.2
+      ],
+      "factor": 0.3773,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "comments-link",
+      "chapter": "comments",
+      "kind": "Phone",
+      "name": "ui-comments-redacted.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        480.0,
+        1043.6
+      ],
+      "factor": 0.398,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "comments-link",
+      "chapter": "comments",
+      "kind": "Crop",
+      "name": "ui-comments-redacted.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1155.0,
+        330.0
+      ],
+      "display": [
+        690.0,
+        197.1
+      ],
+      "factor": 0.5974,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "comments-first",
+      "chapter": "comments",
+      "kind": "Crop",
+      "name": "web-xdoctor-discussion.png",
+      "original": [
+        572,
+        778
+      ],
+      "origin": "",
+      "crop": [
+        510.0,
+        95.0
+      ],
+      "display": [
+        1780.0,
+        331.6
+      ],
+      "factor": 3.4902,
+      "ui": true,
+      "grade": "UNACCEPTABLE"
+    },
+    {
+      "shot": "comments-second",
+      "chapter": "comments",
+      "kind": "Crop",
+      "name": "ui-comments-redacted.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1130.0,
+        860.0
+      ],
+      "display": [
+        1920.0,
+        1461.2
+      ],
+      "factor": 1.6991,
+      "ui": true,
+      "grade": "UNACCEPTABLE"
+    },
+    {
+      "shot": "comments-return",
+      "chapter": "comments",
+      "kind": "Phone",
+      "name": "ui-comments-redacted.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        445.0,
+        967.5
+      ],
+      "factor": 0.369,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "comments-return",
+      "chapter": "comments",
+      "kind": "Phone",
+      "name": "ui-player.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        445.0,
+        967.5
+      ],
+      "factor": 0.369,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "history-hours",
+      "chapter": "history",
+      "kind": "Picture",
+      "name": "ui-listening-hours.jpg",
+      "original": [
+        1100,
+        440
+      ],
+      "origin": "",
+      "crop": [
+        1100.0,
+        440.0
+      ],
+      "display": [
+        1920.0,
+        768.0
+      ],
+      "factor": 1.7455,
+      "ui": true,
+      "grade": "UNACCEPTABLE"
+    },
+    {
+      "shot": "history-stickers",
+      "chapter": "history",
+      "kind": "Picture",
+      "name": "ui-stickers.jpg",
+      "original": [
+        1135,
+        1560
+      ],
+      "origin": "",
+      "crop": [
+        1134.5,
+        1560.0
+      ],
+      "display": [
+        640.0,
+        880.0
+      ],
+      "factor": 0.5641,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "history-100",
+      "chapter": "history",
+      "kind": "Crop",
+      "name": "ui-stickers.jpg",
+      "original": [
+        1135,
+        1560
+      ],
+      "origin": "",
+      "crop": [
+        550.0,
+        720.0
+      ],
+      "display": [
+        830.0,
+        1086.5
+      ],
+      "factor": 1.5091,
+      "ui": true,
+      "grade": "UNACCEPTABLE"
+    },
+    {
+      "shot": "history-return",
+      "chapter": "history",
+      "kind": "Picture",
+      "name": "ui-listening-hours.jpg",
+      "original": [
+        1100,
+        440
+      ],
+      "origin": "",
+      "crop": [
+        1100.0,
+        440.0
+      ],
+      "display": [
+        1050.0,
+        420.0
+      ],
+      "factor": 0.9545,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "history-return",
+      "chapter": "history",
+      "kind": "Picture",
+      "name": "ui-stickers.jpg",
+      "original": [
+        1135,
+        1560
+      ],
+      "origin": "",
+      "crop": [
+        1134.5,
+        1560.0
+      ],
+      "display": [
+        520.0,
+        715.0
+      ],
+      "factor": 0.4583,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "end-notes",
+      "chapter": "ending",
+      "kind": "Picture",
+      "name": "notes-dvd.jpg",
+      "original": [
+        1087,
+        713
+      ],
+      "origin": "",
+      "crop": [
+        1086.5,
+        713.0
+      ],
+      "display": [
+        1920.0,
+        1260.0
+      ],
+      "factor": 1.7672,
+      "ui": false,
+      "grade": "UNACCEPTABLE"
+    },
+    {
+      "shot": "end-xdoctor",
+      "chapter": "ending",
+      "kind": "Picture",
+      "name": "xdoctor-cover.jpg",
+      "original": [
+        300,
+        300
+      ],
+      "origin": "",
+      "crop": [
+        300.0,
+        300.0
+      ],
+      "display": [
+        550.0,
+        550.0
+      ],
+      "factor": 1.8333,
+      "ui": false,
+      "grade": "UNACCEPTABLE"
+    },
+    {
+      "shot": "end-history",
+      "chapter": "ending",
+      "kind": "Picture",
+      "name": "ui-listening-hours.jpg",
+      "original": [
+        1100,
+        440
+      ],
+      "origin": "",
+      "crop": [
+        1100.0,
+        440.0
+      ],
+      "display": [
+        1920.0,
+        768.0
+      ],
+      "factor": 1.7455,
+      "ui": true,
+      "grade": "UNACCEPTABLE"
+    },
+    {
+      "shot": "end-icon",
+      "chapter": "ending",
+      "kind": "Picture",
+      "name": "little-universe-icon.png",
+      "original": [
+        1200,
+        1200
+      ],
+      "origin": "",
+      "crop": [
+        1200.0,
+        1200.0
+      ],
+      "display": [
+        340.0,
+        340.0
+      ],
+      "factor": 0.2833,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "end-icon",
+      "chapter": "ending",
+      "kind": "Picture",
+      "name": "official-wordmark-fourth.png",
+      "original": [
+        1305,
+        352
+      ],
+      "origin": "",
+      "crop": [
+        1305,
+        352
+      ],
+      "display": [
+        411.5,
+        111.0
+      ],
+      "factor": 0.3153,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "feed-topic",
+      "chapter": "discovery",
+      "kind": "WebPage",
+      "name": "web-ritan-topic.png",
+      "original": [
+        572,
+        775
+      ],
+      "origin": "",
+      "crop": [
+        572,
+        321.8
+      ],
+      "display": [
+        1920.0,
+        1080.0
+      ],
+      "factor": 3.3566,
+      "ui": true,
+      "grade": "UNACCEPTABLE"
+    },
+    {
+      "shot": "feed-programme",
+      "chapter": "discovery",
+      "kind": "WebPage",
+      "name": "web-ritan-programme.png",
+      "original": [
+        572,
+        770
+      ],
+      "origin": "",
+      "crop": [
+        572,
+        702.1
+      ],
+      "display": [
+        945.0,
+        1160.0
+      ],
+      "factor": 1.6521,
+      "ui": true,
+      "grade": "UNACCEPTABLE"
+    },
+    {
+      "shot": "feed-programme",
+      "chapter": "discovery",
+      "kind": "WebPage",
+      "name": "web-sound-programme.png",
+      "original": [
+        572,
+        770
+      ],
+      "origin": "",
+      "crop": [
+        572,
+        702.1
+      ],
+      "display": [
+        945.0,
+        1160.0
+      ],
+      "factor": 1.6521,
+      "ui": true,
+      "grade": "UNACCEPTABLE"
+    },
+    {
+      "shot": "listen-widgets",
+      "chapter": "listening",
+      "kind": "Picture",
+      "name": "appstore-1.jpg",
+      "original": [
+        1242,
+        2208
+      ],
+      "origin": "",
+      "crop": [
+        1242,
+        2208
+      ],
+      "display": [
+        610.0,
+        1084.4
+      ],
+      "factor": 0.4911,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "listen-controls",
+      "chapter": "listening",
+      "kind": "Crop",
+      "name": "appstore-1.jpg",
+      "original": [
+        1242,
+        2208
+      ],
+      "origin": "",
+      "crop": [
+        1242.0,
+        570.0
+      ],
+      "display": [
+        1990.0,
+        913.3
+      ],
+      "factor": 1.6023,
+      "ui": true,
+      "grade": "UNACCEPTABLE"
+    },
+    {
+      "shot": "listen-lock",
+      "chapter": "listening",
+      "kind": "Picture",
+      "name": "appstore-7.jpg",
+      "original": [
+        1242,
+        2208
+      ],
+      "origin": "",
+      "crop": [
+        1242,
+        2208
+      ],
+      "display": [
+        759.9,
+        1351.0
+      ],
+      "factor": 0.6119,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "listen-mini",
+      "chapter": "listening",
+      "kind": "Phone",
+      "name": "ui-notes-text.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        485.0,
+        1054.5
+      ],
+      "factor": 0.4022,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "listen-mini-detail",
+      "chapter": "listening",
+      "kind": "Crop",
+      "name": "ui-notes-text.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206.0,
+        265.0
+      ],
+      "display": [
+        1920.0,
+        421.9
+      ],
+      "factor": 1.592,
+      "ui": true,
+      "grade": "UNACCEPTABLE"
+    },
+    {
+      "shot": "listen-back",
+      "chapter": "listening",
+      "kind": "Crop",
+      "name": "ui-player.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1160.0,
+        590.0
+      ],
+      "display": [
+        1570.0,
+        798.5
+      ],
+      "factor": 1.3534,
+      "ui": true,
+      "grade": "BORDERLINE"
+    },
+    {
+      "shot": "comments-feature",
+      "chapter": "comments",
+      "kind": "Picture",
+      "name": "appstore-5.jpg",
+      "original": [
+        1242,
+        2208
+      ],
+      "origin": "",
+      "crop": [
+        1242,
+        2208
+      ],
+      "display": [
+        655.0,
+        1164.4
+      ],
+      "factor": 0.5274,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "comments-context",
+      "chapter": "comments",
+      "kind": "WebPage",
+      "name": "web-xdoctor-2008.png",
+      "original": [
+        572,
+        574
+      ],
+      "origin": "",
+      "crop": [
+        572,
+        574
+      ],
+      "display": [
+        790.0,
+        1130.0
+      ],
+      "factor": 1.3811,
+      "ui": true,
+      "grade": "BORDERLINE"
+    },
+    {
+      "shot": "comments-context",
+      "chapter": "comments",
+      "kind": "Crop",
+      "name": "ui-player.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1130.0,
+        690.0
+      ],
+      "display": [
+        1100.0,
+        671.7
+      ],
+      "factor": 0.9735,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "end-shows",
+      "chapter": "ending",
+      "kind": "WebPage",
+      "name": "web-ritan-episode.png",
+      "original": [
+        572,
+        544
+      ],
+      "origin": "",
+      "crop": [
+        572,
+        544
+      ],
+      "display": [
+        945.0,
+        1180.0
+      ],
+      "factor": 1.6521,
+      "ui": true,
+      "grade": "UNACCEPTABLE"
+    },
+    {
+      "shot": "end-shows",
+      "chapter": "ending",
+      "kind": "WebPage",
+      "name": "web-stochastic-programme.png",
+      "original": [
+        572,
+        770
+      ],
+      "origin": "",
+      "crop": [
+        572,
+        714.2
+      ],
+      "display": [
+        945.0,
+        1180.0
+      ],
+      "factor": 1.6521,
+      "ui": true,
+      "grade": "UNACCEPTABLE"
+    },
+    {
+      "shot": "end-comments",
+      "chapter": "ending",
+      "kind": "Crop",
+      "name": "ui-comments-redacted.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1130.0,
+        860.0
+      ],
+      "display": [
+        1460.0,
+        1111.2
+      ],
+      "factor": 1.292,
+      "ui": true,
+      "grade": "BORDERLINE"
+    },
+    {
+      "shot": "history-emphasis",
+      "chapter": "history",
+      "kind": "Crop",
+      "name": "ui-listening-hours.jpg",
+      "original": [
+        1100,
+        440
+      ],
+      "origin": "",
+      "crop": [
+        355.0,
+        170.0
+      ],
+      "display": [
+        1520.0,
+        727.9
+      ],
+      "factor": 4.2817,
+      "ui": true,
+      "grade": "UNACCEPTABLE"
+    },
+    {
+      "shot": "critical-web",
+      "chapter": "critical",
+      "kind": "WebPage",
+      "name": "web-xdoctor-playing-page-fifth.png",
+      "original": [
+        572,
+        562
+      ],
+      "origin": "",
+      "crop": [
+        572,
+        562
+      ],
+      "display": [
+        1250.0,
+        1240.0
+      ],
+      "factor": 2.1853,
+      "ui": true,
+      "grade": "UNACCEPTABLE"
+    },
+    {
+      "shot": "critical-web",
+      "chapter": "critical",
+      "kind": "Crop",
+      "name": "web-xdoctor-playing-controls-fifth.png",
+      "original": [
+        974,
+        69
+      ],
+      "origin": "",
+      "crop": [
+        974.0,
+        69.0
+      ],
+      "display": [
+        1920.0,
+        136.0
+      ],
+      "factor": 1.9713,
+      "ui": true,
+      "grade": "UNACCEPTABLE"
+    },
+    {
+      "shot": "critical-phone",
+      "chapter": "critical",
+      "kind": "Phone",
+      "name": "ui-player.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        470.0,
+        1021.8
+      ],
+      "factor": 0.3897,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "critical-fit",
+      "chapter": "critical",
+      "kind": "Picture",
+      "name": "little-universe-icon.png",
+      "original": [
+        1200,
+        1200
+      ],
+      "origin": "",
+      "crop": [
+        1200.0,
+        1200.0
+      ],
+      "display": [
+        340.0,
+        340.0
+      ],
+      "factor": 0.2833,
+      "ui": true,
+      "grade": "SAFE"
+    }
+  ],
+  "sixth": [
+    {
+      "shot": "open-cover",
+      "chapter": "opening",
+      "kind": "WebPage",
+      "name": "web-xdoctor-programme-sixth.png",
+      "original": [
+        600,
+        900
+      ],
+      "origin": "",
+      "crop": [
+        600,
+        756.9
+      ],
+      "display": [
+        650.0,
+        820.0
+      ],
+      "factor": 1.0833,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "open-cover",
+      "chapter": "opening",
+      "kind": "Picture",
+      "name": "xdoctor-cover-sixth.jpg",
+      "original": [
+        1440,
+        1440
+      ],
+      "origin": "",
+      "crop": [
+        1440.0,
+        1440.0
+      ],
+      "display": [
+        550.0,
+        550.0
+      ],
+      "factor": 0.3819,
+      "ui": false,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "open-video",
+      "chapter": "opening",
+      "kind": "Picture",
+      "name": "xdoctor-video-thumbnail.jpg",
+      "original": [
+        1280,
+        720
+      ],
+      "origin": "",
+      "crop": [
+        1280.0,
+        718.9
+      ],
+      "display": [
+        1460.0,
+        820.0
+      ],
+      "factor": 1.1406,
+      "ui": false,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "open-video",
+      "chapter": "opening",
+      "kind": "Picture",
+      "name": "xdoctor-cover-sixth.jpg",
+      "original": [
+        1440,
+        1440
+      ],
+      "origin": "",
+      "crop": [
+        1440.0,
+        1440.0
+      ],
+      "display": [
+        170.0,
+        170.0
+      ],
+      "factor": 0.1181,
+      "ui": false,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "open-search",
+      "chapter": "opening",
+      "kind": "Picture",
+      "name": "xdoctor-video-thumbnail.jpg",
+      "original": [
+        1280,
+        720
+      ],
+      "origin": "",
+      "crop": [
+        1278.5,
+        720.0
+      ],
+      "display": [
+        950.0,
+        535.0
+      ],
+      "factor": 0.7431,
+      "ui": false,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "open-result",
+      "chapter": "opening",
+      "kind": "WebPage",
+      "name": "web-xdoctor-2008-sixth.png",
+      "original": [
+        600,
+        562
+      ],
+      "origin": "",
+      "crop": [
+        600,
+        562
+      ],
+      "display": [
+        650.0,
+        760.0
+      ],
+      "factor": 1.0833,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "open-player",
+      "chapter": "opening",
+      "kind": "Phone",
+      "name": "ui-player.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        521.0,
+        1132.7
+      ],
+      "factor": 0.432,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "open-notes",
+      "chapter": "opening",
+      "kind": "Phone",
+      "name": "ui-player.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        450.0,
+        978.4
+      ],
+      "factor": 0.3731,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "open-notes",
+      "chapter": "opening",
+      "kind": "Phone",
+      "name": "ui-notes-photos.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        450.0,
+        978.4
+      ],
+      "factor": 0.3731,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "open-comments",
+      "chapter": "opening",
+      "kind": "Phone",
+      "name": "ui-notes-photos.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        445.0,
+        967.5
+      ],
+      "factor": 0.369,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "open-comments",
+      "chapter": "opening",
+      "kind": "Phone",
+      "name": "ui-comments-redacted.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        445.0,
+        967.5
+      ],
+      "factor": 0.369,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "open-title",
+      "chapter": "opening",
+      "kind": "Picture",
+      "name": "little-universe-icon.png",
+      "original": [
+        1200,
+        1200
+      ],
+      "origin": "",
+      "crop": [
+        1200.0,
+        1200.0
+      ],
+      "display": [
+        535.0,
+        535.0
+      ],
+      "factor": 0.4458,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "player-full",
+      "chapter": "player",
+      "kind": "Phone",
+      "name": "ui-player.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        468.0,
+        1017.5
+      ],
+      "factor": 0.3881,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "player-art",
+      "chapter": "player",
+      "kind": "Picture",
+      "name": "xdoctor-episode-art-sixth.png",
+      "original": [
+        1440,
+        1440
+      ],
+      "origin": "",
+      "crop": [
+        1440.0,
+        1440.0
+      ],
+      "display": [
+        810.0,
+        810.0
+      ],
+      "factor": 0.5625,
+      "ui": false,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "player-art",
+      "chapter": "player",
+      "kind": "Phone",
+      "name": "ui-player.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        360.0,
+        782.7
+      ],
+      "factor": 0.2985,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "player-title",
+      "chapter": "player",
+      "kind": "WebPage",
+      "name": "web-xdoctor-2008-sixth.png",
+      "original": [
+        600,
+        562
+      ],
+      "origin": "",
+      "crop": [
+        600,
+        562
+      ],
+      "display": [
+        620.0,
+        700.0
+      ],
+      "factor": 1.0333,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "player-return",
+      "chapter": "player",
+      "kind": "Phone",
+      "name": "ui-player.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        486.7,
+        1058.2
+      ],
+      "factor": 0.4036,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "player-pocket",
+      "chapter": "player",
+      "kind": "Phone",
+      "name": "ui-player.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        450.0,
+        978.4
+      ],
+      "factor": 0.3731,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "player-timeline",
+      "chapter": "player",
+      "kind": "Crop",
+      "name": "ui-player.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1135.0,
+        660.0
+      ],
+      "display": [
+        1360.0,
+        790.8
+      ],
+      "factor": 1.1982,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "player-rewind",
+      "chapter": "player",
+      "kind": "Crop",
+      "name": "ui-player.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1160.0,
+        590.0
+      ],
+      "display": [
+        1440.0,
+        732.4
+      ],
+      "factor": 1.2414,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "player-tap-hold",
+      "chapter": "player",
+      "kind": "Phone",
+      "name": "ui-player.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        450.0,
+        978.4
+      ],
+      "factor": 0.3731,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "feed-enter",
+      "chapter": "discovery",
+      "kind": "Picture",
+      "name": "official-home-subscriptions.png",
+      "original": [
+        843,
+        1322
+      ],
+      "origin": "",
+      "crop": [
+        843,
+        1322
+      ],
+      "display": [
+        510.0,
+        799.8
+      ],
+      "factor": 0.605,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "feed-search",
+      "chapter": "discovery",
+      "kind": "Picture",
+      "name": "appstore-6.jpg",
+      "original": [
+        1242,
+        2208
+      ],
+      "origin": "",
+      "crop": [
+        1241.3,
+        2208.0
+      ],
+      "display": [
+        800.0,
+        1423.0
+      ],
+      "factor": 0.6445,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "feed-discover",
+      "chapter": "discovery",
+      "kind": "WebPage",
+      "name": "web-stochastic-programme-sixth.png",
+      "original": [
+        600,
+        900
+      ],
+      "origin": "",
+      "crop": [
+        600,
+        821.5
+      ],
+      "display": [
+        650.0,
+        890.0
+      ],
+      "factor": 1.0833,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "feed-select",
+      "chapter": "discovery",
+      "kind": "WebPage",
+      "name": "web-stochastic-episode-sixth.png",
+      "original": [
+        600,
+        900
+      ],
+      "origin": "",
+      "crop": [
+        600,
+        821.5
+      ],
+      "display": [
+        650.0,
+        890.0
+      ],
+      "factor": 1.0833,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "notes-enter",
+      "chapter": "notes",
+      "kind": "WebPage",
+      "name": "web-xdoctor-2008-sixth.png",
+      "original": [
+        600,
+        562
+      ],
+      "origin": "",
+      "crop": [
+        600,
+        562
+      ],
+      "display": [
+        650.0,
+        760.0
+      ],
+      "factor": 1.0833,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "notes-open",
+      "chapter": "notes",
+      "kind": "Phone",
+      "name": "ui-notes-text.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        480.0,
+        1043.6
+      ],
+      "factor": 0.398,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "notes-outline",
+      "chapter": "notes",
+      "kind": "Crop",
+      "name": "ui-notes-text.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1135.0,
+        1420.0
+      ],
+      "display": [
+        1360.0,
+        1701.5
+      ],
+      "factor": 1.1982,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "notes-stadium",
+      "chapter": "notes",
+      "kind": "Picture",
+      "name": "notes-stadium.png",
+      "original": [
+        500,
+        333
+      ],
+      "origin": "",
+      "crop": [
+        500.0,
+        333.0
+      ],
+      "display": [
+        500.0,
+        333.0
+      ],
+      "factor": 1.0,
+      "ui": false,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "notes-stadium",
+      "chapter": "notes",
+      "kind": "Phone",
+      "name": "ui-notes-photos.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        480.0,
+        1043.6
+      ],
+      "factor": 0.398,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "notes-dorm",
+      "chapter": "notes",
+      "kind": "Picture",
+      "name": "notes-dorm.png",
+      "original": [
+        300,
+        200
+      ],
+      "origin": "",
+      "crop": [
+        300.0,
+        200.0
+      ],
+      "display": [
+        330.0,
+        220.0
+      ],
+      "factor": 1.1,
+      "ui": false,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "notes-dorm",
+      "chapter": "notes",
+      "kind": "Phone",
+      "name": "ui-notes-photos.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        480.0,
+        1043.6
+      ],
+      "factor": 0.398,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "notes-olympic",
+      "chapter": "notes",
+      "kind": "Phone",
+      "name": "ui-notes-photos.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        480.0,
+        1043.6
+      ],
+      "factor": 0.398,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "notes-olympic",
+      "chapter": "notes",
+      "kind": "Picture",
+      "name": "notes-beijing-sixth.png",
+      "original": [
+        550,
+        366
+      ],
+      "origin": "",
+      "crop": [
+        550.0,
+        366.0
+      ],
+      "display": [
+        825.0,
+        549.0
+      ],
+      "factor": 1.5,
+      "ui": false,
+      "grade": "BORDERLINE"
+    },
+    {
+      "shot": "notes-dvd",
+      "chapter": "notes",
+      "kind": "Phone",
+      "name": "ui-notes-photos.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        380.0,
+        826.2
+      ],
+      "factor": 0.3151,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "notes-dvd",
+      "chapter": "notes",
+      "kind": "Picture",
+      "name": "notes-beijing-sixth.png",
+      "original": [
+        550,
+        366
+      ],
+      "origin": "",
+      "crop": [
+        550.0,
+        366.0
+      ],
+      "display": [
+        825.0,
+        549.0
+      ],
+      "factor": 1.5,
+      "ui": false,
+      "grade": "BORDERLINE"
+    },
+    {
+      "shot": "notes-dvd",
+      "chapter": "notes",
+      "kind": "Picture",
+      "name": "notes-dvd-sixth.png",
+      "original": [
+        1920,
+        1257
+      ],
+      "origin": "",
+      "crop": [
+        1915.3,
+        1257.0
+      ],
+      "display": [
+        1190.0,
+        781.0
+      ],
+      "factor": 0.6213,
+      "ui": false,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "notes-dvd-hold",
+      "chapter": "notes",
+      "kind": "Picture",
+      "name": "notes-dvd-sixth.png",
+      "original": [
+        1920,
+        1257
+      ],
+      "origin": "",
+      "crop": [
+        1914.3,
+        1257.0
+      ],
+      "display": [
+        1660.0,
+        1090.0
+      ],
+      "factor": 0.8671,
+      "ui": false,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "notes-return",
+      "chapter": "notes",
+      "kind": "Phone",
+      "name": "ui-notes-photos.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        400.0,
+        869.7
+      ],
+      "factor": 0.3317,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "notes-return",
+      "chapter": "notes",
+      "kind": "Picture",
+      "name": "notes-dvd-sixth.png",
+      "original": [
+        1920,
+        1257
+      ],
+      "origin": "",
+      "crop": [
+        1914.3,
+        1257.0
+      ],
+      "display": [
+        1660.0,
+        1090.0
+      ],
+      "factor": 0.8671,
+      "ui": false,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "notes-outline-return",
+      "chapter": "notes",
+      "kind": "Phone",
+      "name": "ui-notes-text.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        475.0,
+        1032.7
+      ],
+      "factor": 0.3939,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "notes-outline-return",
+      "chapter": "notes",
+      "kind": "Crop",
+      "name": "ui-notes-text.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1135.0,
+        800.0
+      ],
+      "display": [
+        620.0,
+        437.0
+      ],
+      "factor": 0.5463,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "notes-player-return",
+      "chapter": "notes",
+      "kind": "Crop",
+      "name": "ui-notes-text.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206.0,
+        265.0
+      ],
+      "display": [
+        1490.0,
+        327.4
+      ],
+      "factor": 1.2355,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "comments-open",
+      "chapter": "comments",
+      "kind": "WebPage",
+      "name": "web-xdoctor-discussion.png",
+      "original": [
+        572,
+        778
+      ],
+      "origin": "",
+      "crop": [
+        572,
+        717.2
+      ],
+      "display": [
+        650.0,
+        815.0
+      ],
+      "factor": 1.1364,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "comments-open",
+      "chapter": "comments",
+      "kind": "Phone",
+      "name": "ui-comments-redacted.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        455.0,
+        989.2
+      ],
+      "factor": 0.3773,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "comments-link",
+      "chapter": "comments",
+      "kind": "Phone",
+      "name": "ui-comments-redacted.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        480.0,
+        1043.6
+      ],
+      "factor": 0.398,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "comments-link",
+      "chapter": "comments",
+      "kind": "Crop",
+      "name": "ui-comments-redacted.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1155.0,
+        330.0
+      ],
+      "display": [
+        690.0,
+        197.1
+      ],
+      "factor": 0.5974,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "comments-first",
+      "chapter": "comments",
+      "kind": "Crop",
+      "name": "web-xdoctor-student-sixth.png",
+      "original": [
+        533,
+        105
+      ],
+      "origin": "",
+      "crop": [
+        533.0,
+        105.0
+      ],
+      "display": [
+        635.0,
+        125.1
+      ],
+      "factor": 1.1914,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "comments-second",
+      "chapter": "comments",
+      "kind": "Crop",
+      "name": "ui-comments-redacted.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1130.0,
+        860.0
+      ],
+      "display": [
+        850.0,
+        646.9
+      ],
+      "factor": 0.7522,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "comments-return",
+      "chapter": "comments",
+      "kind": "Phone",
+      "name": "ui-comments-redacted.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        445.0,
+        967.5
+      ],
+      "factor": 0.369,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "comments-return",
+      "chapter": "comments",
+      "kind": "Phone",
+      "name": "ui-player.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        445.0,
+        967.5
+      ],
+      "factor": 0.369,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "history-hours",
+      "chapter": "history",
+      "kind": "Picture",
+      "name": "ui-listening-hours.jpg",
+      "original": [
+        1100,
+        440
+      ],
+      "origin": "",
+      "crop": [
+        1100.0,
+        440.0
+      ],
+      "display": [
+        1050.0,
+        420.0
+      ],
+      "factor": 0.9545,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "history-stickers",
+      "chapter": "history",
+      "kind": "Picture",
+      "name": "ui-stickers.jpg",
+      "original": [
+        1135,
+        1560
+      ],
+      "origin": "",
+      "crop": [
+        1134.5,
+        1560.0
+      ],
+      "display": [
+        640.0,
+        880.0
+      ],
+      "factor": 0.5641,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "history-100",
+      "chapter": "history",
+      "kind": "Crop",
+      "name": "ui-stickers.jpg",
+      "original": [
+        1135,
+        1560
+      ],
+      "origin": "",
+      "crop": [
+        550.0,
+        720.0
+      ],
+      "display": [
+        550.0,
+        720.0
+      ],
+      "factor": 1.0,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "history-return",
+      "chapter": "history",
+      "kind": "Picture",
+      "name": "ui-listening-hours.jpg",
+      "original": [
+        1100,
+        440
+      ],
+      "origin": "",
+      "crop": [
+        1100.0,
+        440.0
+      ],
+      "display": [
+        1050.0,
+        420.0
+      ],
+      "factor": 0.9545,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "history-return",
+      "chapter": "history",
+      "kind": "Picture",
+      "name": "ui-stickers.jpg",
+      "original": [
+        1135,
+        1560
+      ],
+      "origin": "",
+      "crop": [
+        1134.5,
+        1560.0
+      ],
+      "display": [
+        520.0,
+        715.0
+      ],
+      "factor": 0.4583,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "end-notes",
+      "chapter": "ending",
+      "kind": "Picture",
+      "name": "notes-dvd-sixth.png",
+      "original": [
+        1920,
+        1257
+      ],
+      "origin": "",
+      "crop": [
+        1915.4,
+        1257.0
+      ],
+      "display": [
+        1920.0,
+        1260.0
+      ],
+      "factor": 1.0024,
+      "ui": false,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "end-xdoctor",
+      "chapter": "ending",
+      "kind": "Picture",
+      "name": "xdoctor-cover-sixth.jpg",
+      "original": [
+        1440,
+        1440
+      ],
+      "origin": "",
+      "crop": [
+        1440.0,
+        1440.0
+      ],
+      "display": [
+        550.0,
+        550.0
+      ],
+      "factor": 0.3819,
+      "ui": false,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "end-history",
+      "chapter": "ending",
+      "kind": "Picture",
+      "name": "ui-listening-hours.jpg",
+      "original": [
+        1100,
+        440
+      ],
+      "origin": "",
+      "crop": [
+        1100.0,
+        440.0
+      ],
+      "display": [
+        1050.0,
+        420.0
+      ],
+      "factor": 0.9545,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "end-icon",
+      "chapter": "ending",
+      "kind": "Picture",
+      "name": "little-universe-icon.png",
+      "original": [
+        1200,
+        1200
+      ],
+      "origin": "",
+      "crop": [
+        1200.0,
+        1200.0
+      ],
+      "display": [
+        340.0,
+        340.0
+      ],
+      "factor": 0.2833,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "end-icon",
+      "chapter": "ending",
+      "kind": "Picture",
+      "name": "official-wordmark-fourth.png",
+      "original": [
+        1305,
+        352
+      ],
+      "origin": "",
+      "crop": [
+        1305,
+        352
+      ],
+      "display": [
+        411.5,
+        111.0
+      ],
+      "factor": 0.3153,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "feed-topic",
+      "chapter": "discovery",
+      "kind": "WebPage",
+      "name": "web-ritan-topic-sixth.png",
+      "original": [
+        600,
+        900
+      ],
+      "origin": "",
+      "crop": [
+        600,
+        830.8
+      ],
+      "display": [
+        650.0,
+        900.0
+      ],
+      "factor": 1.0833,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "feed-programme",
+      "chapter": "discovery",
+      "kind": "WebPage",
+      "name": "web-ritan-programme-sixth.png",
+      "original": [
+        600,
+        900
+      ],
+      "origin": "",
+      "crop": [
+        600,
+        812.3
+      ],
+      "display": [
+        650.0,
+        880.0
+      ],
+      "factor": 1.0833,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "feed-programme",
+      "chapter": "discovery",
+      "kind": "WebPage",
+      "name": "web-sound-programme-sixth.png",
+      "original": [
+        600,
+        900
+      ],
+      "origin": "",
+      "crop": [
+        600,
+        812.3
+      ],
+      "display": [
+        650.0,
+        880.0
+      ],
+      "factor": 1.0833,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "listen-widgets",
+      "chapter": "listening",
+      "kind": "Picture",
+      "name": "appstore-1.jpg",
+      "original": [
+        1242,
+        2208
+      ],
+      "origin": "",
+      "crop": [
+        1242,
+        2208
+      ],
+      "display": [
+        610.0,
+        1084.4
+      ],
+      "factor": 0.4911,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "listen-controls",
+      "chapter": "listening",
+      "kind": "Crop",
+      "name": "appstore-1.jpg",
+      "original": [
+        1242,
+        2208
+      ],
+      "origin": "",
+      "crop": [
+        1242.0,
+        570.0
+      ],
+      "display": [
+        1500.0,
+        688.4
+      ],
+      "factor": 1.2077,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "listen-lock",
+      "chapter": "listening",
+      "kind": "Picture",
+      "name": "appstore-7.jpg",
+      "original": [
+        1242,
+        2208
+      ],
+      "origin": "",
+      "crop": [
+        1242,
+        2208
+      ],
+      "display": [
+        759.9,
+        1351.0
+      ],
+      "factor": 0.6119,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "listen-mini",
+      "chapter": "listening",
+      "kind": "Phone",
+      "name": "ui-notes-text.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        485.0,
+        1054.5
+      ],
+      "factor": 0.4022,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "listen-mini-detail",
+      "chapter": "listening",
+      "kind": "Crop",
+      "name": "ui-notes-text.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206.0,
+        265.0
+      ],
+      "display": [
+        1490.0,
+        327.4
+      ],
+      "factor": 1.2355,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "listen-back",
+      "chapter": "listening",
+      "kind": "Crop",
+      "name": "ui-player.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1160.0,
+        590.0
+      ],
+      "display": [
+        1440.0,
+        732.4
+      ],
+      "factor": 1.2414,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "comments-feature",
+      "chapter": "comments",
+      "kind": "Picture",
+      "name": "appstore-5.jpg",
+      "original": [
+        1242,
+        2208
+      ],
+      "origin": "",
+      "crop": [
+        1242,
+        2208
+      ],
+      "display": [
+        655.0,
+        1164.4
+      ],
+      "factor": 0.5274,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "comments-context",
+      "chapter": "comments",
+      "kind": "WebPage",
+      "name": "web-xdoctor-2008-sixth.png",
+      "original": [
+        600,
+        562
+      ],
+      "origin": "",
+      "crop": [
+        600,
+        562
+      ],
+      "display": [
+        650.0,
+        820.0
+      ],
+      "factor": 1.0833,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "comments-context",
+      "chapter": "comments",
+      "kind": "Crop",
+      "name": "ui-player.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1130.0,
+        690.0
+      ],
+      "display": [
+        1100.0,
+        671.7
+      ],
+      "factor": 0.9735,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "end-shows",
+      "chapter": "ending",
+      "kind": "WebPage",
+      "name": "web-ritan-episode-sixth.png",
+      "original": [
+        600,
+        900
+      ],
+      "origin": "",
+      "crop": [
+        600,
+        784.6
+      ],
+      "display": [
+        650.0,
+        850.0
+      ],
+      "factor": 1.0833,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "end-shows",
+      "chapter": "ending",
+      "kind": "WebPage",
+      "name": "web-stochastic-programme-sixth.png",
+      "original": [
+        600,
+        900
+      ],
+      "origin": "",
+      "crop": [
+        600,
+        784.6
+      ],
+      "display": [
+        650.0,
+        850.0
+      ],
+      "factor": 1.0833,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "end-comments",
+      "chapter": "ending",
+      "kind": "Crop",
+      "name": "ui-comments-redacted.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1130.0,
+        860.0
+      ],
+      "display": [
+        1350.0,
+        1027.4
+      ],
+      "factor": 1.1947,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "player-observation",
+      "chapter": "player",
+      "kind": "Phone",
+      "name": "ui-player.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        460.0,
+        1000.1
+      ],
+      "factor": 0.3814,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "player-observation",
+      "chapter": "player",
+      "kind": "Picture",
+      "name": "xdoctor-episode-art-sixth.png",
+      "original": [
+        1440,
+        1440
+      ],
+      "origin": "",
+      "crop": [
+        1440.0,
+        1440.0
+      ],
+      "display": [
+        460.0,
+        460.0
+      ],
+      "factor": 0.3194,
+      "ui": false,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "listen-catch",
+      "chapter": "listening",
+      "kind": "Phone",
+      "name": "ui-player.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        440.0,
+        956.6
+      ],
+      "factor": 0.3648,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "history-emphasis",
+      "chapter": "history",
+      "kind": "Picture",
+      "name": "ui-listening-hours.jpg",
+      "original": [
+        1100,
+        440
+      ],
+      "origin": "",
+      "crop": [
+        1100.0,
+        440.0
+      ],
+      "display": [
+        1050.0,
+        420.0
+      ],
+      "factor": 0.9545,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "critical-web",
+      "chapter": "critical",
+      "kind": "WebPage",
+      "name": "web-xdoctor-2008-sixth.png",
+      "original": [
+        600,
+        562
+      ],
+      "origin": "",
+      "crop": [
+        600,
+        562
+      ],
+      "display": [
+        650.0,
+        650.0
+      ],
+      "factor": 1.0833,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "critical-web",
+      "chapter": "critical",
+      "kind": "Crop",
+      "name": "web-xdoctor-controls-sixth.png",
+      "original": [
+        1888,
+        69
+      ],
+      "origin": "",
+      "crop": [
+        1888.0,
+        69.0
+      ],
+      "display": [
+        1920.0,
+        70.2
+      ],
+      "factor": 1.0169,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "critical-phone",
+      "chapter": "critical",
+      "kind": "Phone",
+      "name": "ui-player.jpg",
+      "original": [
+        1206,
+        2622
+      ],
+      "origin": "",
+      "crop": [
+        1206,
+        2622
+      ],
+      "display": [
+        470.0,
+        1021.8
+      ],
+      "factor": 0.3897,
+      "ui": true,
+      "grade": "SAFE"
+    },
+    {
+      "shot": "critical-fit",
+      "chapter": "critical",
+      "kind": "Picture",
+      "name": "little-universe-icon.png",
+      "original": [
+        1200,
+        1200
+      ],
+      "origin": "",
+      "crop": [
+        1200.0,
+        1200.0
+      ],
+      "display": [
+        340.0,
+        340.0
+      ],
+      "factor": 0.2833,
+      "ui": true,
+      "grade": "SAFE"
+    }
+  ]
+}

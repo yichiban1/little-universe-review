@@ -1,0 +1,642 @@
+[
+  {
+    "error": null,
+    "height": 1080,
+    "label": "open-cover / 3.993s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 3.993,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/open-cover.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "open-video / 6.284s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 6.284,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/open-video.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "open-search / 7.826s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 7.826,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/open-search.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "open-result / 10.521s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 10.521,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/open-result.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "open-player / 14.298s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 14.298,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/open-player.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "open-notes / 16.173s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 16.172999,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/open-notes.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "open-comments / 17.882s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 17.882,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/open-comments.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "open-title / 19.062s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 19.062,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/open-title.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "player-full / 21.757s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 21.757,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/player-full.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "player-art / 23.465s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 23.465,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/player-art.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "player-observation / 27.715s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 27.715,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/player-observation.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "player-title / 31.548s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 31.548,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/player-title.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "player-return / 33.868s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 33.868,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/player-return.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "player-pocket / 37.257s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 37.257,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/player-pocket.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "player-timeline / 38.576s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 38.576,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/player-timeline.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "player-rewind / 41.784s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 41.784,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/player-rewind.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "player-tap-hold / 44.507s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 44.507,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/player-tap-hold.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "feed-enter / 46.201s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 46.201,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/feed-enter.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "feed-topic / 49.048s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 49.048,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/feed-topic.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "feed-search / 52.423s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 52.423,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/feed-search.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "feed-programme / 55.784s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 55.784,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/feed-programme.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "feed-discover / 57.326s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 57.326,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/feed-discover.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "feed-select / 59.104s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 59.104,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/feed-select.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "feed-daqing / 63.159s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 63.159,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/feed-daqing.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "listen-widgets / 66.784s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 66.784,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/listen-widgets.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "listen-controls / 68.437s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 68.437,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/listen-controls.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "listen-lock / 70.618s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 70.618,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/listen-lock.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "listen-mini / 73.104s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 73.104,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/listen-mini.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "listen-mini-detail / 76.284s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 76.284,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/listen-mini-detail.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "listen-catch / 81.618s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 81.618,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/listen-catch.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "listen-back / 84.382s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 84.382,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/listen-back.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "notes-enter / 87.979s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 87.979,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/notes-enter.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "notes-open / 90.021s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 90.021,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/notes-open.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "notes-outline / 95.507s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 95.507,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/notes-outline.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "notes-stadium / 96.576s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 96.576,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/notes-stadium.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "notes-dorm / 98.132s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 98.132,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/notes-dorm.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "notes-olympic / 100.312s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 100.312,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/notes-olympic.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "notes-dvd / 102.673s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 102.673,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/notes-dvd.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "notes-dvd-hold / 106.715s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 106.715,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/notes-dvd-hold.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "notes-return / 111.076s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 111.076,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/notes-return.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "notes-outline-return / 114.687s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 114.687,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/notes-outline-return.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "notes-player-return / 118.757s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 118.757,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/notes-player-return.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "comments-feature / 121.937s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 121.937,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/comments-feature.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "comments-context / 127.09s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 127.09,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/comments-context.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "comments-open / 128.84s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 128.84,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/comments-open.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "comments-link / 132.757s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 132.757,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/comments-link.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "comments-first / 136.451s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 136.451,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/comments-first.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "comments-second / 139.312s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 139.312,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/comments-second.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "comments-return / 143.298s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 143.298,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/comments-return.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "history-hours / 144.423s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 144.423,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/history-hours.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "history-emphasis / 148.284s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 148.284,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/history-emphasis.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "history-stickers / 149.937s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 149.937,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/history-stickers.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "history-100 / 152.257s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 152.257,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/history-100.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "history-return / 154.909s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 154.909,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/history-return.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "critical-personal / 159.257s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 159.257,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/critical-personal.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "critical-web / 161.59s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 161.59,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/critical-web.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "critical-phone / 163.354s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 163.354,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/critical-phone.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "critical-fit / 168.479s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 168.479,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/critical-fit.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "end-xdoctor / 170.326s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 170.326,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/end-xdoctor.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "end-shows / 172.423s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 172.423,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/end-shows.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "end-notes / 174.034s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 174.034,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/end-notes.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "end-comments / 175.812s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 175.812,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/end-comments.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "end-history / 178.118s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 178.118,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/end-history.png"
+  },
+  {
+    "error": null,
+    "height": 1080,
+    "label": "end-icon / 183.84s / native 1080p",
+    "paused": true,
+    "source": "http://127.0.0.1:8817/out/little-universe-review-sixth-edit.mp4?v=1ac8b7a0190468d00e25e39d17810835aa18bfe7ede46291eb7ec3c76e34253c",
+    "time": 183.84,
+    "width": 1920,
+    "screenshot": "analysis/sixth-browser-pauses/end-icon.png"
+  }
+]
