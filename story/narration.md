@@ -1,21 +1,17 @@
-# Final English narration
+# Final English narration — second edit
 
-When I first downloaded Little Universe, I wasn't looking for a podcast app. I was looking for X Doctor. One show got me through the door. Everything I found after that made me stay.
+I came to Little Universe for one voice: X Doctor. I had found their videos first. Then I searched for the podcast, tapped an episode, and suddenly there was more to follow. A photograph. A comment. Another show. This is how one search turned into a listening habit.
 
-I discovered X Doctor through videos, especially their North Korea stories on YouTube. When I wanted more, I learned they made podcasts too. I pressed play for something familiar. That one tap quietly changed what I went looking for each day.
+Here is the player I actually use. The cover takes the space it needs. The episode title stays visible. Below it, the timeline and the fifteen-second rewind are easy to find. When I'm walking, I can leave the screen alone. When I want to go back, one tap gets me there.
 
-Little Universe makes listening feel easy. Covers and titles have space, controls are where I expect them, and the screen doesn't fight for my attention. That restraint matters when I'm walking. The interface gets out of the way and lets a voice stay in focus.
+X Doctor led me into stories about places and people I hadn't been looking for. From there, I tried other shows through the feed and search. One episode even brought up Daqing, where I grew up. That was a small personal surprise. Mostly, discovery here feels like following one interesting voice to the next.
 
-At first, I followed subjects X Doctor made me curious about: folk culture, unusual places, travel and personal histories. One story brought up Daqing, where I grew up. Then I started trying other shows. The catalogue felt less like a list and more like a series of doors.
+Audio changes the pace. I can listen on a train, look out of the window, and let a conversation run. A host pauses, laughs, or remembers something halfway through a thought. It feels close in a way a polished video sometimes doesn't. That's personal, of course, but it explains why I kept coming back.
 
-Podcasts feel different from the videos that first led me here. A host can pause, disagree, remember something, or make a joke and leave it in. I often feel as if I'm sitting with interesting old friends, even when I'm listening alone on a train.
+The Show Notes are where this app becomes more than a play button for me. In this X Doctor episode about 2008, the notes have a timeline and photographs. I can move from a line in the conversation to an Olympic image, then to a photo of a DVD shop. The detail has somewhere to live. I can listen now and explore later.
 
-Show Notes are my favourite part. An unfamiliar name can lead to a photograph. A place can lead to a map. A passing reference can become something I read later. Those pieces gather around the audio. The podcast becomes more than a recording. It becomes an environment I can move through, then return to.
+Then there are the comments. On my screen, the player sits at two minutes and thirty-three seconds. In the discussion, listeners bring their own memories of 2008. Some are brief; others are surprisingly detailed. I don't have to post anything to feel the difference. The episode has become a place where people compare what they remember.
 
-The comments add another way in. People react to a moment I missed, connect it to their own memory, or laugh at the same line. I don't need to join every conversation. Seeing those responses reminds me someone else was listening closely too.
+My profile shows one hundred and twenty-eight hours and twenty-seven minutes of total listening. Separately, the sticker shelf includes a reward tied to one hundred hours with a single creator. They measure different things. I like that the sticker can live on the profile, though. It's a small trace of the shows I returned to.
 
-I like the smaller traces it keeps: listening time, summaries, and stickers. After a hundred hours with one creator, a sticker can sit on your profile. I don't read that as a score. It makes months of walks and commutes feel connected. A listening history becomes a personal map.
-
-Still, Little Universe fits me best when I'm exploring Chinese-language podcasts. Someone who listens mainly in English may have less reason to make it their main app. I used to want a better desktop option. Web listening exists now, but I still reach for the phone. That's a preference, not a missing feature.
-
-I came because one creator had more to say. I stayed for other voices, places, and conversations opening out from the first one. Little Universe gave my curiosity room to travel. I came for one podcast. I stayed for many more.
+Little Universe is strongest for me when I'm exploring Chinese-language podcasts. If most of your listening is in English, your mix of apps may be different. There is web listening too; I just prefer using my phone. So this isn't a universal recommendation. It's an account of how I use it: one show led to notes, comments, other voices, and a record of time spent listening. I came for one podcast. I stayed for many more.

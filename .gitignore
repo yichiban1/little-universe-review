@@ -5,3 +5,7 @@ dist
 
 # Ignore the output video from Git but not videos you import into src/.
 out
+analysis/second-edit-frames/
+analysis/assets-all.jpg
+analysis/revision-check-*.png
+analysis/frame-166-direct.jpg
