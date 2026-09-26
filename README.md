@@ -1,5 +1,27 @@
 # Little Universe — personal app review
 
+## Third edit
+
+The third edit is separate from the preserved second edit: 1920×1080, 30 fps, approximately 2:59. It uses 58 individually timed shots, word-aligned narration, measured voice waveforms, contextual Little Universe imagery, and licensed recorded audio.
+
+- `out/little-universe-review-third-edit.mp4`: third edit
+- `out/captions-third.srt`: third-edit English captions
+- `src/ThirdEdit.tsx` and `src/ThirdFilm.tsx`: picture and sound edit
+- `src/shots-third.json`: editable word-anchored shot timeline
+- `story/narration-third-edit.md` and `story/third-edit-plan.md`: script and edit plan
+- `analysis/third-edit-sheet-*.jpg`: contact sheets from the delivered encode
+- `analysis/third-motion-*.mp4`: opening, player, discovery, notes, comments and ending review clips
+- `analysis/third-edit-review.md`: verification and remaining limitations
+
+```powershell
+npx remotion render src/index.ts LittleUniverseReviewThird out/little-universe-review-third-edit.mp4 --concurrency=2
+python scripts/qa_third.py
+```
+
+The old `little-universe-review-project.zip` packages the second edit. It is not a third-edit package.
+
+## Preserved second edit
+
 An editable 1920×1080, 30 fps Remotion second edit, approximately 2:47. The continuous English narration calls the app “Little Universe.” The former first cut remains in `out/` for comparison if present.
 
 ## Outputs
