@@ -1,0 +1,642 @@
+[
+  {
+    "id": "open-cover",
+    "chapter": "opening",
+    "anchor": "I downloaded",
+    "wordIndex": 0,
+    "startMs": 0,
+    "endMs": 4153,
+    "durationMs": 4153,
+    "composition": "page/card"
+  },
+  {
+    "id": "open-video",
+    "chapter": "opening",
+    "anchor": "I'd watched",
+    "wordIndex": 10,
+    "startMs": 4153,
+    "endMs": 6444,
+    "durationMs": 2291,
+    "composition": "page/card"
+  },
+  {
+    "id": "open-search",
+    "chapter": "opening",
+    "anchor": "searched the name",
+    "wordIndex": 17,
+    "startMs": 6444,
+    "endMs": 7986,
+    "durationMs": 1542,
+    "composition": "object transformation"
+  },
+  {
+    "id": "open-result",
+    "chapter": "opening",
+    "anchor": "I opened an episode",
+    "wordIndex": 21,
+    "startMs": 7986,
+    "endMs": 10681,
+    "durationMs": 2695,
+    "composition": "edge crop"
+  },
+  {
+    "id": "open-player",
+    "chapter": "opening",
+    "anchor": "pressed play",
+    "wordIndex": 27,
+    "startMs": 10681,
+    "endMs": 14458,
+    "durationMs": 3777,
+    "composition": "phone-in-space"
+  },
+  {
+    "id": "open-notes",
+    "chapter": "opening",
+    "anchor": "the notes, photos",
+    "wordIndex": 36,
+    "startMs": 14458,
+    "endMs": 16333,
+    "durationMs": 1875,
+    "composition": "object transformation"
+  },
+  {
+    "id": "open-comments",
+    "chapter": "opening",
+    "anchor": "people talking",
+    "wordIndex": 40,
+    "startMs": 16333,
+    "endMs": 18042,
+    "durationMs": 1709,
+    "composition": "object transformation"
+  },
+  {
+    "id": "open-title",
+    "chapter": "opening",
+    "anchor": "Let me show you",
+    "wordIndex": 44,
+    "startMs": 18042,
+    "endMs": 19222,
+    "durationMs": 1180,
+    "composition": "floating object"
+  },
+  {
+    "id": "player-full",
+    "chapter": "player",
+    "anchor": "The player is pretty plain",
+    "wordIndex": 48,
+    "startMs": 19222,
+    "endMs": 21917,
+    "durationMs": 2695,
+    "composition": "phone-in-space"
+  },
+  {
+    "id": "player-art",
+    "chapter": "player",
+    "anchor": "The artwork is huge",
+    "wordIndex": 56,
+    "startMs": 21917,
+    "endMs": 23625,
+    "durationMs": 1708,
+    "composition": "full-bleed crop"
+  },
+  {
+    "id": "player-observation",
+    "chapter": "player",
+    "anchor": "With that much space",
+    "wordIndex": 60,
+    "startMs": 23625,
+    "endMs": 27875,
+    "durationMs": 4250,
+    "composition": "typographic interlude"
+  },
+  {
+    "id": "player-title",
+    "chapter": "player",
+    "anchor": "episode title",
+    "wordIndex": 74,
+    "startMs": 27875,
+    "endMs": 31708,
+    "durationMs": 3833,
+    "composition": "detail crop"
+  },
+  {
+    "id": "player-return",
+    "chapter": "player",
+    "anchor": "This is the screen",
+    "wordIndex": 83,
+    "startMs": 31708,
+    "endMs": 34028,
+    "durationMs": 2320,
+    "composition": "phone-in-space"
+  },
+  {
+    "id": "player-pocket",
+    "chapter": "player",
+    "anchor": "When I'm outside",
+    "wordIndex": 90,
+    "startMs": 34028,
+    "endMs": 37417,
+    "durationMs": 3389,
+    "composition": "typographic interlude"
+  },
+  {
+    "id": "player-timeline",
+    "chapter": "player",
+    "anchor": "If I miss something",
+    "wordIndex": 101,
+    "startMs": 37417,
+    "endMs": 38736,
+    "durationMs": 1319,
+    "composition": "detail crop"
+  },
+  {
+    "id": "player-rewind",
+    "chapter": "player",
+    "anchor": "fifteen-second rewind",
+    "wordIndex": 106,
+    "startMs": 38736,
+    "endMs": 41944,
+    "durationMs": 3208,
+    "composition": "detail crop"
+  },
+  {
+    "id": "player-tap-hold",
+    "chapter": "player",
+    "anchor": "I probably use",
+    "wordIndex": 113,
+    "startMs": 41944,
+    "endMs": 44667,
+    "durationMs": 2723,
+    "composition": "typographic interlude"
+  },
+  {
+    "id": "feed-enter",
+    "chapter": "discovery",
+    "anchor": "After X Doctor",
+    "wordIndex": 121,
+    "startMs": 44667,
+    "endMs": 46361,
+    "durationMs": 1694,
+    "composition": "page/card"
+  },
+  {
+    "id": "feed-topic",
+    "chapter": "discovery",
+    "anchor": "following topics",
+    "wordIndex": 126,
+    "startMs": 46361,
+    "endMs": 49208,
+    "durationMs": 2847,
+    "composition": "full-bleed crop"
+  },
+  {
+    "id": "feed-search",
+    "chapter": "discovery",
+    "anchor": "I'd finish an episode",
+    "wordIndex": 131,
+    "startMs": 49208,
+    "endMs": 52583,
+    "durationMs": 3375,
+    "composition": "page/card"
+  },
+  {
+    "id": "feed-programme",
+    "chapter": "discovery",
+    "anchor": "Sometimes I browse",
+    "wordIndex": 141,
+    "startMs": 52583,
+    "endMs": 55944,
+    "durationMs": 3361,
+    "composition": "split-screen"
+  },
+  {
+    "id": "feed-discover",
+    "chapter": "discovery",
+    "anchor": "Sometimes I just",
+    "wordIndex": 148,
+    "startMs": 55944,
+    "endMs": 57486,
+    "durationMs": 1542,
+    "composition": "page/card"
+  },
+  {
+    "id": "feed-select",
+    "chapter": "discovery",
+    "anchor": "the discovery page",
+    "wordIndex": 154,
+    "startMs": 57486,
+    "endMs": 59264,
+    "durationMs": 1778,
+    "composition": "edge crop"
+  },
+  {
+    "id": "feed-daqing",
+    "chapter": "discovery",
+    "anchor": "Daqing",
+    "wordIndex": 158,
+    "startMs": 59264,
+    "endMs": 63319,
+    "durationMs": 4055,
+    "composition": "typographic interlude"
+  },
+  {
+    "id": "listen-widgets",
+    "chapter": "listening",
+    "anchor": "Most of the time",
+    "wordIndex": 167,
+    "startMs": 63319,
+    "endMs": 66944,
+    "durationMs": 3625,
+    "composition": "floating object"
+  },
+  {
+    "id": "listen-controls",
+    "chapter": "listening",
+    "anchor": "If I need",
+    "wordIndex": 179,
+    "startMs": 66944,
+    "endMs": 68597,
+    "durationMs": 1653,
+    "composition": "detail crop"
+  },
+  {
+    "id": "listen-lock",
+    "chapter": "listening",
+    "anchor": "there's usually a shortcut",
+    "wordIndex": 186,
+    "startMs": 68597,
+    "endMs": 70778,
+    "durationMs": 2181,
+    "composition": "floating object"
+  },
+  {
+    "id": "listen-mini",
+    "chapter": "listening",
+    "anchor": "I don't need the full",
+    "wordIndex": 191,
+    "startMs": 70778,
+    "endMs": 73264,
+    "durationMs": 2486,
+    "composition": "phone-in-space"
+  },
+  {
+    "id": "listen-mini-detail",
+    "chapter": "listening",
+    "anchor": "The little player",
+    "wordIndex": 199,
+    "startMs": 73264,
+    "endMs": 76444,
+    "durationMs": 3180,
+    "composition": "detail crop"
+  },
+  {
+    "id": "listen-catch",
+    "chapter": "listening",
+    "anchor": "And if I missed",
+    "wordIndex": 209,
+    "startMs": 76444,
+    "endMs": 81778,
+    "durationMs": 5334,
+    "composition": "typographic interlude"
+  },
+  {
+    "id": "listen-back",
+    "chapter": "listening",
+    "anchor": "Fifteen seconds back",
+    "wordIndex": 225,
+    "startMs": 81778,
+    "endMs": 84542,
+    "durationMs": 2764,
+    "composition": "detail crop"
+  },
+  {
+    "id": "notes-enter",
+    "chapter": "notes",
+    "anchor": "Here's where the 2008",
+    "wordIndex": 232,
+    "startMs": 84542,
+    "endMs": 88139,
+    "durationMs": 3597,
+    "composition": "detail crop"
+  },
+  {
+    "id": "notes-open",
+    "chapter": "notes",
+    "anchor": "I tap into its Show Notes",
+    "wordIndex": 240,
+    "startMs": 88139,
+    "endMs": 90181,
+    "durationMs": 2042,
+    "composition": "phone-in-space"
+  },
+  {
+    "id": "notes-outline",
+    "chapter": "notes",
+    "anchor": "First there's",
+    "wordIndex": 246,
+    "startMs": 90181,
+    "endMs": 95667,
+    "durationMs": 5486,
+    "composition": "detail crop"
+  },
+  {
+    "id": "notes-stadium",
+    "chapter": "notes",
+    "anchor": "Then the notes move",
+    "wordIndex": 259,
+    "startMs": 95667,
+    "endMs": 96736,
+    "durationMs": 1069,
+    "composition": "object transformation"
+  },
+  {
+    "id": "notes-dorm",
+    "chapter": "notes",
+    "anchor": "into photographs",
+    "wordIndex": 263,
+    "startMs": 96736,
+    "endMs": 98292,
+    "durationMs": 1556,
+    "composition": "object transformation"
+  },
+  {
+    "id": "notes-olympic",
+    "chapter": "notes",
+    "anchor": "There's an image",
+    "wordIndex": 265,
+    "startMs": 98292,
+    "endMs": 100472,
+    "durationMs": 2180,
+    "composition": "object transformation"
+  },
+  {
+    "id": "notes-dvd",
+    "chapter": "notes",
+    "anchor": "and a photo of a DVD shop",
+    "wordIndex": 272,
+    "startMs": 100472,
+    "endMs": 102833,
+    "durationMs": 2361,
+    "composition": "object transformation"
+  },
+  {
+    "id": "notes-dvd-hold",
+    "chapter": "notes",
+    "anchor": "When someone talks",
+    "wordIndex": 279,
+    "startMs": 102833,
+    "endMs": 106875,
+    "durationMs": 4042,
+    "composition": "full-bleed crop"
+  },
+  {
+    "id": "notes-return",
+    "chapter": "notes",
+    "anchor": "I like being able",
+    "wordIndex": 292,
+    "startMs": 106875,
+    "endMs": 111236,
+    "durationMs": 4361,
+    "composition": "object transformation"
+  },
+  {
+    "id": "notes-outline-return",
+    "chapter": "notes",
+    "anchor": "A long episode",
+    "wordIndex": 307,
+    "startMs": 111236,
+    "endMs": 114847,
+    "durationMs": 3611,
+    "composition": "detail crop"
+  },
+  {
+    "id": "notes-player-return",
+    "chapter": "notes",
+    "anchor": "instead of asking",
+    "wordIndex": 317,
+    "startMs": 114847,
+    "endMs": 118917,
+    "durationMs": 4070,
+    "composition": "detail crop"
+  },
+  {
+    "id": "comments-feature",
+    "chapter": "comments",
+    "anchor": "And the conversation",
+    "wordIndex": 328,
+    "startMs": 118917,
+    "endMs": 122097,
+    "durationMs": 3180,
+    "composition": "page/card"
+  },
+  {
+    "id": "comments-context",
+    "chapter": "comments",
+    "anchor": "I was at",
+    "wordIndex": 336,
+    "startMs": 122097,
+    "endMs": 127250,
+    "durationMs": 5153,
+    "composition": "split-screen"
+  },
+  {
+    "id": "comments-open",
+    "chapter": "comments",
+    "anchor": "I can open the discussion",
+    "wordIndex": 351,
+    "startMs": 127250,
+    "endMs": 129000,
+    "durationMs": 1750,
+    "composition": "object transformation"
+  },
+  {
+    "id": "comments-link",
+    "chapter": "comments",
+    "anchor": "comment box keeps",
+    "wordIndex": 358,
+    "startMs": 129000,
+    "endMs": 132917,
+    "durationMs": 3917,
+    "composition": "detail crop"
+  },
+  {
+    "id": "comments-first",
+    "chapter": "comments",
+    "anchor": "one listener writes",
+    "wordIndex": 367,
+    "startMs": 132917,
+    "endMs": 136611,
+    "durationMs": 3694,
+    "composition": "detail crop"
+  },
+  {
+    "id": "comments-second",
+    "chapter": "comments",
+    "anchor": "Another remembers",
+    "wordIndex": 375,
+    "startMs": 136611,
+    "endMs": 139472,
+    "durationMs": 2861,
+    "composition": "full-bleed crop"
+  },
+  {
+    "id": "comments-return",
+    "chapter": "comments",
+    "anchor": "I'll read a few",
+    "wordIndex": 381,
+    "startMs": 139472,
+    "endMs": 143458,
+    "durationMs": 3986,
+    "composition": "object transformation"
+  },
+  {
+    "id": "history-hours",
+    "chapter": "history",
+    "anchor": "My profile shows",
+    "wordIndex": 392,
+    "startMs": 143458,
+    "endMs": 144583,
+    "durationMs": 1125,
+    "composition": "full-bleed crop"
+  },
+  {
+    "id": "history-emphasis",
+    "chapter": "history",
+    "anchor": "128 hours",
+    "wordIndex": 395,
+    "startMs": 144583,
+    "endMs": 148444,
+    "durationMs": 3861,
+    "composition": "detail crop"
+  },
+  {
+    "id": "history-stickers",
+    "chapter": "history",
+    "anchor": "This sticker is different",
+    "wordIndex": 401,
+    "startMs": 148444,
+    "endMs": 150097,
+    "durationMs": 1653,
+    "composition": "floating object"
+  },
+  {
+    "id": "history-100",
+    "chapter": "history",
+    "anchor": "a hundred hours",
+    "wordIndex": 405,
+    "startMs": 150097,
+    "endMs": 152417,
+    "durationMs": 2320,
+    "composition": "detail crop"
+  },
+  {
+    "id": "history-return",
+    "chapter": "history",
+    "anchor": "I like seeing",
+    "wordIndex": 411,
+    "startMs": 152417,
+    "endMs": 155069,
+    "durationMs": 2652,
+    "composition": "two-source comparison"
+  },
+  {
+    "id": "critical-personal",
+    "chapter": "critical",
+    "anchor": "I don't use it for everything",
+    "wordIndex": 420,
+    "startMs": 155069,
+    "endMs": 159417,
+    "durationMs": 4348,
+    "composition": "typographic interlude"
+  },
+  {
+    "id": "critical-web",
+    "chapter": "critical",
+    "anchor": "Web listening works",
+    "wordIndex": 433,
+    "startMs": 159417,
+    "endMs": 161750,
+    "durationMs": 2333,
+    "composition": "edge crop"
+  },
+  {
+    "id": "critical-phone",
+    "chapter": "critical",
+    "anchor": "I still reach",
+    "wordIndex": 438,
+    "startMs": 161750,
+    "endMs": 163514,
+    "durationMs": 1764,
+    "composition": "phone-in-space"
+  },
+  {
+    "id": "critical-fit",
+    "chapter": "critical",
+    "anchor": "For the Chinese podcasts",
+    "wordIndex": 444,
+    "startMs": 163514,
+    "endMs": 168639,
+    "durationMs": 5125,
+    "composition": "floating object"
+  },
+  {
+    "id": "end-xdoctor",
+    "chapter": "ending",
+    "anchor": "I came here",
+    "wordIndex": 458,
+    "startMs": 168639,
+    "endMs": 170486,
+    "durationMs": 1847,
+    "composition": "floating object"
+  },
+  {
+    "id": "end-shows",
+    "chapter": "ending",
+    "anchor": "Now I come back",
+    "wordIndex": 464,
+    "startMs": 170486,
+    "endMs": 172583,
+    "durationMs": 2097,
+    "composition": "split-screen"
+  },
+  {
+    "id": "end-notes",
+    "chapter": "ending",
+    "anchor": "the photos in the notes",
+    "wordIndex": 471,
+    "startMs": 172583,
+    "endMs": 174194,
+    "durationMs": 1611,
+    "composition": "full-bleed crop"
+  },
+  {
+    "id": "end-comments",
+    "chapter": "ending",
+    "anchor": "the people in the discussion",
+    "wordIndex": 477,
+    "startMs": 174194,
+    "endMs": 175972,
+    "durationMs": 1778,
+    "composition": "detail crop"
+  },
+  {
+    "id": "end-history",
+    "chapter": "ending",
+    "anchor": "There's a history",
+    "wordIndex": 482,
+    "startMs": 175972,
+    "endMs": 178278,
+    "durationMs": 2306,
+    "composition": "full-bleed crop"
+  },
+  {
+    "id": "end-icon",
+    "chapter": "ending",
+    "anchor": "When someone sends",
+    "wordIndex": 490,
+    "startMs": 178278,
+    "endMs": 184000,
+    "durationMs": 5722,
+    "composition": "floating object"
+  }
+]

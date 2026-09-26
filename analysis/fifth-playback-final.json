@@ -1,0 +1,41 @@
+{
+  "observations": [
+    {
+      "currentTime": 29.167575,
+      "duration": 184.042667,
+      "ended": false,
+      "paused": false,
+      "rate": 1
+    },
+    {
+      "currentTime": 71.367443,
+      "duration": 184.042667,
+      "ended": false,
+      "paused": false,
+      "rate": 1
+    },
+    {
+      "currentTime": 102.428955,
+      "duration": 184.042667,
+      "ended": false,
+      "paused": false,
+      "rate": 1
+    },
+    {
+      "currentTime": 162.688281,
+      "duration": 184.042667,
+      "ended": false,
+      "paused": false,
+      "rate": 1
+    },
+    {
+      "currentTime": 184.042667,
+      "duration": 184.042667,
+      "ended": true,
+      "paused": true,
+      "rate": 1
+    }
+  ],
+  "seekPerformed": false,
+  "playbackRateChanged": false
+}

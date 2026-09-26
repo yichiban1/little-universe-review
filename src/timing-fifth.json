@@ -1,0 +1,59 @@
+{
+  "durationMs": 184000,
+  "beats": [
+    {
+      "id": "opening",
+      "text": "I downloaded Little Universe because X Doctor had a podcast. I'd watched their videos for ages, then searched the name here. I opened an episode about 2008, pressed play, and kept noticing things around the audio: the notes, photos, and people talking below it. Let me show you.",
+      "startMs": 111,
+      "endMs": 18750
+    },
+    {
+      "id": "player",
+      "text": "The player is pretty plain, which I like. The artwork is huge. With that much space given to the cover, I look further down. But the episode title and the controls stay easy to find. This is the screen I actually use. When I'm outside, I can leave it running in my pocket. If I miss something, the fifteen-second rewind is right by my thumb. I probably use that more than anything else.",
+      "startMs": 19222,
+      "endMs": 44208
+    },
+    {
+      "id": "discovery",
+      "text": "After X Doctor, I started following topics, then other shows. I'd finish an episode and search for something it mentioned. Sometimes I browse a programme's older episodes. Sometimes I just pick something from the discovery page. Even Daqing came up \u2014 my hometown. I wasn't expecting that.",
+      "startMs": 44667,
+      "endMs": 62861
+    },
+    {
+      "id": "listening",
+      "text": "Most of the time, the phone is back in my pocket anyway. If I need to jump back in, there's usually a shortcut nearby. I don't need the full player every time. The little player stays at the bottom while I browse. And if I missed something, I'm usually just trying to catch a sentence, not start over. Fifteen seconds back is enough for that.",
+      "startMs": 63319,
+      "endMs": 84056
+    },
+    {
+      "id": "notes",
+      "text": "Here's where the 2008 episode gets more interesting. I tap into its Show Notes. First there's the episode outline, with timestamps for different parts of the conversation. Then the notes move into photographs. There's an image from the Beijing Olympics, and a photo of a DVD shop. When someone talks about that time, I can actually see what they mean. I like being able to leave the audio alone and come back to these later. A long episode can hold its references in one place, instead of asking me to remember a name and search elsewhere.",
+      "startMs": 84542,
+      "endMs": 118458
+    },
+    {
+      "id": "comments",
+      "text": "And the conversation doesn't end with the hosts. I was at two minutes thirty-three when I took this screenshot. From the episode page, I can open the discussion, and the comment box keeps that playback time beside it. Here, one listener writes about being a student in 2008. Another remembers the earthquake in Chengdu. I'll read a few, go back, and hear that part differently.",
+      "startMs": 118917,
+      "endMs": 142986
+    },
+    {
+      "id": "history",
+      "text": "My profile shows 128 hours and 27 minutes in total. This sticker is different: a hundred hours with one creator. I like seeing which voices I've spent time with.",
+      "startMs": 143458,
+      "endMs": 154611
+    },
+    {
+      "id": "critical",
+      "text": "I don't use it for everything. Most of my English podcasts are elsewhere. Web listening works, too, but I still reach for my phone. For the Chinese podcasts I follow, that's where Little Universe fits into my day.",
+      "startMs": 155069,
+      "endMs": 168167
+    },
+    {
+      "id": "ending",
+      "text": "I came here for X Doctor. Now I come back for other shows, the photos in the notes, and the people in the discussion. There's a history of that on my profile. When someone sends me an episode, this is usually where I open it.",
+      "startMs": 168639,
+      "endMs": 182042
+    }
+  ]
+}
