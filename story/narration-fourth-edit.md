@@ -1,0 +1,17 @@
+# Fourth edit narration
+
+I downloaded Little Universe because X Doctor had a podcast. I'd watched their videos for ages, then searched the name here. I opened an episode about 2008, pressed play, and kept noticing things around the audio: the notes, photos, and people talking below it. Let me show you.
+
+The player is pretty plain, which I like. The artwork is huge, but the episode title and the controls stay easy to find. This is the screen I actually use. When I'm outside, I can leave it running in my pocket. If I miss something, the fifteen-second rewind is right by my thumb. I probably use that more than anything else.
+
+After X Doctor, I started following topics, then other shows. I'd finish an episode and search for something it mentioned. Sometimes I browse a programme's older episodes. Sometimes I just pick something from the discovery page. One episode mentioned Daqing, where I grew up. I wasn't looking for that. It just made me stop for a second.
+
+Most of the time, the phone is back in my pocket anyway. There are ways back in without opening the full player. Little Universe's home-screen widgets have pause and rewind controls. The lock-screen widgets show episode shortcuts, too. Inside the app, a small player stays at the bottom while I browse. The conversation keeps going. If I miss a detail, I can go back fifteen seconds and catch it again.
+
+Here's where the 2008 episode gets more interesting. I tap into its Show Notes. First there's the episode outline, with timestamps for different parts of the conversation. Then the notes move into photographs. There's an image from the Beijing Olympics, and a photo of a DVD shop. When someone talks about that time, I can actually see what they mean. I like being able to leave the audio alone and come back to these later. A long episode can hold its references in one place, instead of asking me to remember a name and search elsewhere.
+
+And the conversation doesn't end with the hosts. I was at two minutes thirty-three when I took this screenshot. From the episode page, I can open the discussion, and the comment box keeps that playback time beside it. Here, one listener writes about being a student in 2008. Another remembers the earthquake in Chengdu. I'll read a few, go back, and keep listening. Those memories stay with me for the rest of the episode.
+
+My profile says I've listened for 128 hours and 27 minutes altogether. There are stickers too. This one marks a hundred hours with a single creator, which is a different count. I like seeing it on my profile. It reminds me which voices I've spent time with.
+
+I still use other apps. Little Universe is where I go for the Chinese podcasts I follow. I came here for X Doctor. Now I come back for other shows, the photos in the notes, and the people in the discussion. When someone sends me an episode, this is usually where I open it.

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "open-cover",
+    "chapter": "opening",
+    "anchor": "I downloaded",
+    "wordIndex": 0,
+    "startMs": 0,
+    "endMs": 4153,
+    "durationMs": 4153
+  },
+  {
+    "id": "open-video",
+    "chapter": "opening",
+    "anchor": "I'd watched",
+    "wordIndex": 10,
+    "startMs": 4153,
+    "endMs": 6444,
+    "durationMs": 2291
+  },
+  {
+    "id": "open-search",
+    "chapter": "opening",
+    "anchor": "searched the name",
+    "wordIndex": 17,
+    "startMs": 6444,
+    "endMs": 7986,
+    "durationMs": 1542
+  },
+  {
+    "id": "open-result",
+    "chapter": "opening",
+    "anchor": "I opened an episode",
+    "wordIndex": 21,
+    "startMs": 7986,
+    "endMs": 10681,
+    "durationMs": 2695
+  },
+  {
+    "id": "open-player",
+    "chapter": "opening",
+    "anchor": "pressed play",
+    "wordIndex": 27,
+    "startMs": 10681,
+    "endMs": 14458,
+    "durationMs": 3777
+  },
+  {
+    "id": "open-notes",
+    "chapter": "opening",
+    "anchor": "the notes, photos",
+    "wordIndex": 36,
+    "startMs": 14458,
+    "endMs": 16333,
+    "durationMs": 1875
+  },
+  {
+    "id": "open-comments",
+    "chapter": "opening",
+    "anchor": "people talking",
+    "wordIndex": 40,
+    "startMs": 16333,
+    "endMs": 18042,
+    "durationMs": 1709
+  },
+  {
+    "id": "open-title",
+    "chapter": "opening",
+    "anchor": "Let me show you",
+    "wordIndex": 44,
+    "startMs": 18042,
+    "endMs": 19222,
+    "durationMs": 1180
+  },
+  {
+    "id": "player-full",
+    "chapter": "player",
+    "anchor": "The player is pretty plain",
+    "wordIndex": 48,
+    "startMs": 19222,
+    "endMs": 21917,
+    "durationMs": 2695
+  },
+  {
+    "id": "player-art",
+    "chapter": "player",
+    "anchor": "The artwork is huge",
+    "wordIndex": 56,
+    "startMs": 21917,
+    "endMs": 23958,
+    "durationMs": 2041
+  },
+  {
+    "id": "player-title",
+    "chapter": "player",
+    "anchor": "episode title",
+    "wordIndex": 62,
+    "startMs": 23958,
+    "endMs": 27764,
+    "durationMs": 3806
+  },
+  {
+    "id": "player-return",
+    "chapter": "player",
+    "anchor": "This is the screen",
+    "wordIndex": 71,
+    "startMs": 27764,
+    "endMs": 30083,
+    "durationMs": 2319
+  },
+  {
+    "id": "player-pocket",
+    "chapter": "player",
+    "anchor": "When I'm outside",
+    "wordIndex": 78,
+    "startMs": 30083,
+    "endMs": 33472,
+    "durationMs": 3389
+  },
+  {
+    "id": "player-timeline",
+    "chapter": "player",
+    "anchor": "If I miss something",
+    "wordIndex": 89,
+    "startMs": 33472,
+    "endMs": 34792,
+    "durationMs": 1320
+  },
+  {
+    "id": "player-rewind",
+    "chapter": "player",
+    "anchor": "fifteen-second rewind",
+    "wordIndex": 94,
+    "startMs": 34792,
+    "endMs": 38000,
+    "durationMs": 3208
+  },
+  {
+    "id": "player-tap-hold",
+    "chapter": "player",
+    "anchor": "I probably use",
+    "wordIndex": 101,
+    "startMs": 38000,
+    "endMs": 40722,
+    "durationMs": 2722
+  },
+  {
+    "id": "feed-enter",
+    "chapter": "discovery",
+    "anchor": "After X Doctor",
+    "wordIndex": 109,
+    "startMs": 40722,
+    "endMs": 42417,
+    "durationMs": 1695
+  },
+  {
+    "id": "feed-topic",
+    "chapter": "discovery",
+    "anchor": "following topics",
+    "wordIndex": 114,
+    "startMs": 42417,
+    "endMs": 45264,
+    "durationMs": 2847
+  },
+  {
+    "id": "feed-search",
+    "chapter": "discovery",
+    "anchor": "I'd finish an episode",
+    "wordIndex": 119,
+    "startMs": 45264,
+    "endMs": 48639,
+    "durationMs": 3375
+  },
+  {
+    "id": "feed-programme",
+    "chapter": "discovery",
+    "anchor": "Sometimes I browse",
+    "wordIndex": 129,
+    "startMs": 48639,
+    "endMs": 52000,
+    "durationMs": 3361
+  },
+  {
+    "id": "feed-discover",
+    "chapter": "discovery",
+    "anchor": "Sometimes I just",
+    "wordIndex": 136,
+    "startMs": 52000,
+    "endMs": 53542,
+    "durationMs": 1542
+  },
+  {
+    "id": "feed-select",
+    "chapter": "discovery",
+    "anchor": "the discovery page",
+    "wordIndex": 142,
+    "startMs": 53542,
+    "endMs": 55111,
+    "durationMs": 1569
+  },
+  {
+    "id": "feed-daqing",
+    "chapter": "discovery",
+    "anchor": "One episode mentioned Daqing",
+    "wordIndex": 145,
+    "startMs": 55111,
+    "endMs": 58375,
+    "durationMs": 3264
+  },
+  {
+    "id": "feed-hold",
+    "chapter": "discovery",
+    "anchor": "I wasn't looking",
+    "wordIndex": 153,
+    "startMs": 58375,
+    "endMs": 61931,
+    "durationMs": 3556
+  },
+  {
+    "id": "listen-widgets",
+    "chapter": "listening",
+    "anchor": "Most of the time",
+    "wordIndex": 166,
+    "startMs": 61931,
+    "endMs": 65569,
+    "durationMs": 3638
+  },
+  {
+    "id": "listen-controls",
+    "chapter": "listening",
+    "anchor": "There are ways",
+    "wordIndex": 178,
+    "startMs": 65569,
+    "endMs": 73236,
+    "durationMs": 7667
+  },
+  {
+    "id": "listen-lock",
+    "chapter": "listening",
+    "anchor": "The lock-screen",
+    "wordIndex": 197,
+    "startMs": 73236,
+    "endMs": 77319,
+    "durationMs": 4083
+  },
+  {
+    "id": "listen-mini",
+    "chapter": "listening",
+    "anchor": "Inside the app",
+    "wordIndex": 204,
+    "startMs": 77319,
+    "endMs": 81597,
+    "durationMs": 4278
+  },
+  {
+    "id": "listen-mini-detail",
+    "chapter": "listening",
+    "anchor": "The conversation keeps",
+    "wordIndex": 217,
+    "startMs": 81597,
+    "endMs": 83542,
+    "durationMs": 1945
+  },
+  {
+    "id": "listen-back",
+    "chapter": "listening",
+    "anchor": "If I miss a detail",
+    "wordIndex": 221,
+    "startMs": 83542,
+    "endMs": 88111,
+    "durationMs": 4569
+  },
+  {
+    "id": "notes-enter",
+    "chapter": "notes",
+    "anchor": "Here's where the 2008",
+    "wordIndex": 236,
+    "startMs": 88111,
+    "endMs": 91708,
+    "durationMs": 3597
+  },
+  {
+    "id": "notes-open",
+    "chapter": "notes",
+    "anchor": "I tap into its Show Notes",
+    "wordIndex": 244,
+    "startMs": 91708,
+    "endMs": 93750,
+    "durationMs": 2042
+  },
+  {
+    "id": "notes-outline",
+    "chapter": "notes",
+    "anchor": "First there's",
+    "wordIndex": 250,
+    "startMs": 93750,
+    "endMs": 99236,
+    "durationMs": 5486
+  },
+  {
+    "id": "notes-stadium",
+    "chapter": "notes",
+    "anchor": "Then the notes move",
+    "wordIndex": 263,
+    "startMs": 99236,
+    "endMs": 100306,
+    "durationMs": 1070
+  },
+  {
+    "id": "notes-dorm",
+    "chapter": "notes",
+    "anchor": "into photographs",
+    "wordIndex": 267,
+    "startMs": 100306,
+    "endMs": 101861,
+    "durationMs": 1555
+  },
+  {
+    "id": "notes-olympic",
+    "chapter": "notes",
+    "anchor": "There's an image",
+    "wordIndex": 269,
+    "startMs": 101861,
+    "endMs": 104042,
+    "durationMs": 2181
+  },
+  {
+    "id": "notes-dvd",
+    "chapter": "notes",
+    "anchor": "and a photo of a DVD shop",
+    "wordIndex": 276,
+    "startMs": 104042,
+    "endMs": 106403,
+    "durationMs": 2361
+  },
+  {
+    "id": "notes-dvd-hold",
+    "chapter": "notes",
+    "anchor": "When someone talks",
+    "wordIndex": 283,
+    "startMs": 106403,
+    "endMs": 110444,
+    "durationMs": 4041
+  },
+  {
+    "id": "notes-return",
+    "chapter": "notes",
+    "anchor": "I like being able",
+    "wordIndex": 296,
+    "startMs": 110444,
+    "endMs": 114806,
+    "durationMs": 4362
+  },
+  {
+    "id": "notes-outline-return",
+    "chapter": "notes",
+    "anchor": "A long episode",
+    "wordIndex": 311,
+    "startMs": 114806,
+    "endMs": 118417,
+    "durationMs": 3611
+  },
+  {
+    "id": "notes-player-return",
+    "chapter": "notes",
+    "anchor": "instead of asking",
+    "wordIndex": 321,
+    "startMs": 118417,
+    "endMs": 122486,
+    "durationMs": 4069
+  },
+  {
+    "id": "comments-feature",
+    "chapter": "comments",
+    "anchor": "And the conversation",
+    "wordIndex": 332,
+    "startMs": 122486,
+    "endMs": 125667,
+    "durationMs": 3181
+  },
+  {
+    "id": "comments-context",
+    "chapter": "comments",
+    "anchor": "I was at",
+    "wordIndex": 340,
+    "startMs": 125667,
+    "endMs": 130819,
+    "durationMs": 5152
+  },
+  {
+    "id": "comments-open",
+    "chapter": "comments",
+    "anchor": "I can open the discussion",
+    "wordIndex": 355,
+    "startMs": 130819,
+    "endMs": 132569,
+    "durationMs": 1750
+  },
+  {
+    "id": "comments-link",
+    "chapter": "comments",
+    "anchor": "comment box keeps",
+    "wordIndex": 362,
+    "startMs": 132569,
+    "endMs": 136486,
+    "durationMs": 3917
+  },
+  {
+    "id": "comments-first",
+    "chapter": "comments",
+    "anchor": "one listener writes",
+    "wordIndex": 371,
+    "startMs": 136486,
+    "endMs": 140181,
+    "durationMs": 3695
+  },
+  {
+    "id": "comments-second",
+    "chapter": "comments",
+    "anchor": "Another remembers",
+    "wordIndex": 379,
+    "startMs": 140181,
+    "endMs": 143042,
+    "durationMs": 2861
+  },
+  {
+    "id": "comments-return",
+    "chapter": "comments",
+    "anchor": "I'll read a few",
+    "wordIndex": 385,
+    "startMs": 143042,
+    "endMs": 146361,
+    "durationMs": 3319
+  },
+  {
+    "id": "comments-player",
+    "chapter": "comments",
+    "anchor": "Those memories stay",
+    "wordIndex": 394,
+    "startMs": 146361,
+    "endMs": 149694,
+    "durationMs": 3333
+  },
+  {
+    "id": "history-hours",
+    "chapter": "history",
+    "anchor": "My profile says",
+    "wordIndex": 405,
+    "startMs": 149694,
+    "endMs": 155403,
+    "durationMs": 5709
+  },
+  {
+    "id": "history-stickers",
+    "chapter": "history",
+    "anchor": "There are stickers too",
+    "wordIndex": 416,
+    "startMs": 155403,
+    "endMs": 156819,
+    "durationMs": 1416
+  },
+  {
+    "id": "history-100",
+    "chapter": "history",
+    "anchor": "This one marks",
+    "wordIndex": 420,
+    "startMs": 156819,
+    "endMs": 161750,
+    "durationMs": 4931
+  },
+  {
+    "id": "history-board",
+    "chapter": "history",
+    "anchor": "I like seeing",
+    "wordIndex": 435,
+    "startMs": 161750,
+    "endMs": 166625,
+    "durationMs": 4875
+  },
+  {
+    "id": "end-feed",
+    "chapter": "ending",
+    "anchor": "I still use other apps",
+    "wordIndex": 451,
+    "startMs": 166625,
+    "endMs": 168347,
+    "durationMs": 1722
+  },
+  {
+    "id": "end-catalogue",
+    "chapter": "ending",
+    "anchor": "Little Universe is where",
+    "wordIndex": 456,
+    "startMs": 168347,
+    "endMs": 172292,
+    "durationMs": 3945
+  },
+  {
+    "id": "end-xdoctor",
+    "chapter": "ending",
+    "anchor": "I came here",
+    "wordIndex": 468,
+    "startMs": 172292,
+    "endMs": 174139,
+    "durationMs": 1847
+  },
+  {
+    "id": "end-shows",
+    "chapter": "ending",
+    "anchor": "Now I come back",
+    "wordIndex": 474,
+    "startMs": 174139,
+    "endMs": 176236,
+    "durationMs": 2097
+  },
+  {
+    "id": "end-notes",
+    "chapter": "ending",
+    "anchor": "the photos in the notes",
+    "wordIndex": 481,
+    "startMs": 176236,
+    "endMs": 177847,
+    "durationMs": 1611
+  },
+  {
+    "id": "end-comments",
+    "chapter": "ending",
+    "anchor": "the people in the discussion",
+    "wordIndex": 487,
+    "startMs": 177847,
+    "endMs": 179611,
+    "durationMs": 1764
+  },
+  {
+    "id": "end-icon",
+    "chapter": "ending",
+    "anchor": "When someone sends",
+    "wordIndex": 492,
+    "startMs": 179611,
+    "endMs": 185000,
+    "durationMs": 5389
+  }
+]

@@ -1,0 +1,44 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'E:\App review\little-universe-review\out\fourth-review-pass.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.100
+    comment         : Made with Remotion 4.0.529
+  Duration: 00:03:05.05, start: 0.000000, bitrate: 1000 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuvj420p(pc, bt470bg/unknown/unknown, progressive), 960x540 [SAR 1:1 DAR 16:9], 674 kb/s, 30 fps, 30 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+      Side data:
+        ICC Profile
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 317 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+[Parsed_volumedetect_0 @ 0000013f2fe2aa00] n_samples: 0
+Stream mapping:
+  Stream #0:1 -> #0:0 (aac (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    comment         : Made with Remotion 4.0.529
+    encoder         : Lavf61.7.100
+  Stream #0:0(und): Audio: pcm_s16le, 48000 Hz, stereo, s16, 1536 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 pcm_s16le
+[Parsed_volumedetect_0 @ 0000013f2fdf4ec0] n_samples: 17764352
+[Parsed_volumedetect_0 @ 0000013f2fdf4ec0] mean_volume: -22.8 dB
+[Parsed_volumedetect_0 @ 0000013f2fdf4ec0] max_volume: -5.4 dB
+[Parsed_volumedetect_0 @ 0000013f2fdf4ec0] histogram_5db: 50
+[Parsed_volumedetect_0 @ 0000013f2fdf4ec0] histogram_6db: 633
+[Parsed_volumedetect_0 @ 0000013f2fdf4ec0] histogram_7db: 3512
+[Parsed_volumedetect_0 @ 0000013f2fdf4ec0] histogram_8db: 12366
+[Parsed_volumedetect_0 @ 0000013f2fdf4ec0] histogram_9db: 31065
+[out#0/null @ 0000013f2fb2fb00] video:0KiB audio:34696KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:03:05.04 bitrate=N/A speed=1.57e+03x    
