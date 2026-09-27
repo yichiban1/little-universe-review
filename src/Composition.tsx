@@ -6,6 +6,7 @@ import {FifthFilm,fifthTotalFrames} from './FifthFilm';
 import {SixthFilm,sixthTotalFrames} from './SixthFilm';
 import {HeroFilm,heroTotalFrames} from './HeroFilm';
 import {HeroPolishFilm,heroPolishTotalFrames} from './HeroPolishFilm';
+import {OpeningHeroFilm} from './OpeningHeroFilm';
 import {HeroExperimentFilm} from './HeroExperiments';
 export const MyComposition=()=> <>
  <Composition id="LittleUniverseReview" component={Film} durationInFrames={totalFrames} fps={30} width={1920} height={1080}/>
@@ -16,5 +17,6 @@ export const MyComposition=()=> <>
  <Composition id="LittleUniverseReviewHero" component={HeroFilm} durationInFrames={heroTotalFrames} fps={30} width={1920} height={1080}/>
  <Composition id="LittleUniverseReviewHeroExperiments" component={HeroExperimentFilm} durationInFrames={heroTotalFrames} fps={30} width={1920} height={1080}/>
  <Composition id="LittleUniverseReviewHeroPolish" component={HeroPolishFilm} durationInFrames={heroPolishTotalFrames} fps={30} width={1920} height={1080}/>
+ <Composition id="LittleUniverseReviewOpeningHero" component={OpeningHeroFilm} durationInFrames={heroPolishTotalFrames} fps={30} width={1920} height={1080}/>
  </>;
 

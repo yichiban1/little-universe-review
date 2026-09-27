@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "baseline": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "width": 1920,
+          "height": 1080,
+          "r_frame_rate": "30/1",
+          "nb_frames": "577"
+        },
+        {
+          "r_frame_rate": "0/0",
+          "nb_frames": "904"
+        }
+      ],
+      "format": {
+        "duration": "19.285333",
+        "size": "4228525"
+      }
+    },
+    "preview": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "width": 1920,
+          "height": 1080,
+          "r_frame_rate": "30/1",
+          "nb_frames": "577"
+        },
+        {
+          "r_frame_rate": "0/0",
+          "nb_frames": "904"
+        }
+      ],
+      "format": {
+        "duration": "19.285333",
+        "size": "3948958"
+      }
+    }
+  },
+  "audioPayloadMD5": {
+    "baseline": "MD5=7789e40b9691a4fb08c65639b229d61d",
+    "preview": "MD5=7789e40b9691a4fb08c65639b229d61d"
+  },
+  "decode": "passed",
+  "protectedOriginalFiles": 1021,
+  "crossCheckoutChangedExceptComposition": [],
+  "frameBoundary": 577,
+  "totalCompositionFrames": 5520,
+  "noNewAssets": true
+}
