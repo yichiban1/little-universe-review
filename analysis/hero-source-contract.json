@@ -1,0 +1,19 @@
+{
+  "actualImageDimensionsMatch": [
+    "xdoctor-episode-art-sixth.png",
+    "ui-player.jpg",
+    "web-xdoctor-2008-sixth.png",
+    "web-xdoctor-controls-sixth.png",
+    "web-ritan-topic-sixth.png",
+    "web-ritan-programme-sixth.png",
+    "web-sound-programme-sixth.png",
+    "web-stochastic-programme-sixth.png",
+    "web-stochastic-episode-sixth.png",
+    "hero-stochastic-programme.jpg",
+    "discovery-ritan.jpg",
+    "discovery-stochastic.jpg",
+    "little-universe-icon.png"
+  ],
+  "filmAudioCaptionsTimingNormalizedByteMatch": true,
+  "allOtherShotsDelegateToSixth": true
+}

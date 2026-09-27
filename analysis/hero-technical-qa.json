@@ -1,0 +1,34 @@
+{
+  "nativeFrames": 37,
+  "nativeSize": [
+    1920,
+    1080
+  ],
+  "metadata": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "30/1",
+        "nb_frames": "5520"
+      },
+      {
+        "r_frame_rate": "0/0",
+        "nb_frames": "8627"
+      }
+    ],
+    "format": {
+      "duration": "184.042667",
+      "size": "29611066"
+    }
+  },
+  "audioPayloadMD5": {
+    "sixth": "MD5=61a3997ba976d6b4e6f483cd1539764b",
+    "hero": "MD5=61a3997ba976d6b4e6f483cd1539764b"
+  },
+  "fullDecode": "passed",
+  "masterSHA256": "f40f9eaa8c89e0fe385bf3cd086e6e5ac3dccc8579da628c34074d53b8358793",
+  "captionsByteIdentical": true
+}
