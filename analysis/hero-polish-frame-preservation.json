@@ -1,0 +1,108 @@
+{
+  "size": [
+    1920,
+    1080
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "time": 0,
+      "identicalPNG": true
+    },
+    {
+      "frame": 157,
+      "time": 5.233333333333333,
+      "identicalPNG": true
+    },
+    {
+      "frame": 576,
+      "time": 19.2,
+      "identicalPNG": true
+    },
+    {
+      "frame": 657,
+      "time": 21.9,
+      "identicalPNG": true
+    },
+    {
+      "frame": 1017,
+      "time": 33.9,
+      "identicalPNG": true
+    },
+    {
+      "frame": 1020,
+      "time": 34,
+      "identicalPNG": true
+    },
+    {
+      "frame": 1021,
+      "time": 34.03333333333333,
+      "identicalPNG": true
+    },
+    {
+      "frame": 1123,
+      "time": 37.43333333333333,
+      "identicalPNG": true
+    },
+    {
+      "frame": 1390,
+      "time": 46.333333333333336,
+      "identicalPNG": true
+    },
+    {
+      "frame": 1778,
+      "time": 59.266666666666666,
+      "identicalPNG": true
+    },
+    {
+      "frame": 1900,
+      "time": 63.333333333333336,
+      "identicalPNG": true
+    },
+    {
+      "frame": 2500,
+      "time": 83.33333333333333,
+      "identicalPNG": true
+    },
+    {
+      "frame": 3000,
+      "time": 100,
+      "identicalPNG": true
+    },
+    {
+      "frame": 3600,
+      "time": 120,
+      "identicalPNG": true
+    },
+    {
+      "frame": 4200,
+      "time": 140,
+      "identicalPNG": true
+    },
+    {
+      "frame": 4652,
+      "time": 155.06666666666666,
+      "identicalPNG": true
+    },
+    {
+      "frame": 4906,
+      "time": 163.53333333333333,
+      "identicalPNG": true
+    },
+    {
+      "frame": 5058,
+      "time": 168.6,
+      "identicalPNG": true
+    },
+    {
+      "frame": 5480,
+      "time": 182.66666666666666,
+      "identicalPNG": true
+    },
+    {
+      "frame": 5519,
+      "time": 183.96666666666667,
+      "identicalPNG": true
+    }
+  ]
+}

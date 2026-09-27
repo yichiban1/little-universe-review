@@ -1,0 +1,11 @@
+{
+  "filmWrapperNormalizedByteIdentical": true,
+  "sourceDimensionsVerified": 13,
+  "pixelGuardsAndPhoneGeometryByteIdentical": true,
+  "allOutsideShotsDelegateToHero": true,
+  "UIlimit": 1.25,
+  "artworkLimit": 1.5,
+  "maxNewUIScale": 1.0833333333333333,
+  "maxArtworkScale": 0.5625,
+  "normalizedWrapperIgnoresTrailingBlankLines": true
+}

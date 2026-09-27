@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "30/1",
+        "nb_frames": "5520"
+      },
+      {
+        "r_frame_rate": "0/0",
+        "nb_frames": "8627"
+      }
+    ],
+    "format": {
+      "duration": "184.042667",
+      "size": "29398804"
+    }
+  },
+  "audioPayloadMD5": {
+    "hero": "MD5=61a3997ba976d6b4e6f483cd1539764b",
+    "polish": "MD5=61a3997ba976d6b4e6f483cd1539764b"
+  },
+  "decode": "passed",
+  "captionsByteIdentical": true,
+  "originalFilesChecked": 929,
+  "originalChanged": [],
+  "baselineWorktreeDiffIgnoringCheckoutLineEndings": [
+    ".gitignore",
+    "src/Composition.tsx"
+  ],
+  "masterSHA256": "bb3a5fa55f3733211cd3b2b0e556b7ef41f749c29b464b92947416e773bf46a0"
+}

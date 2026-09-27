@@ -1,0 +1,18 @@
+{
+  "fullMaster": {
+    "duration": 184.042667,
+    "finalTime": 184.042667,
+    "playbackRate": 1,
+    "ended": true,
+    "mediaError": null,
+    "muted": true,
+    "observedTimes": [0, 30.520073, 59.088347, 95.662073, 139.785969, 168.736791, 184.042667]
+  },
+  "comparisons": {
+    "layout": "Current Hero left / Polish right",
+    "player": {"playbackRate": 1, "ended": true, "finalTime": 12.16, "mediaError": null},
+    "discovery": {"playbackRate": 1, "ended": true, "finalTime": 12.949, "mediaError": null}
+  },
+  "visualEvidence": "Actual encoded previews, browser playback samples, 30fps transition sheets and 26 native encoded frames",
+  "audioReview": "Technical identity verified; no new listen-through judgement"
+}

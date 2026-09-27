@@ -1,0 +1,26 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Hero Polish review</title>
+<style>
+body{background:#101820;color:#f8fbfb;font:16px Arial;margin:24px;max-width:1400px}
+a{color:#25b7d8;margin-right:24px}video{width:100%;margin-top:24px}p{color:#94a9b0}
+</style>
+<h2>Hero Polish</h2>
+<p>Comparison clips: current Hero on the left, Polish on the right. Full film: 1920 × 1080 / 30 fps.</p>
+<nav>
+<a href="hero-polish-review.html?view=player">Player A/B</a>
+<a href="hero-polish-review.html?view=discovery">Discovery A/B</a>
+<a href="hero-polish-review.html?view=master">Full Polish film</a>
+<a href="hero-polish-review.md">Review notes</a>
+</nav>
+<video id="film" controls autoplay muted playsinline></video>
+<p id="status"></p>
+<script>
+const video=document.getElementById('film');
+const view=new URLSearchParams(location.search).get('view')||'master';
+const start=Number(new URLSearchParams(location.search).get('start')||0);
+video.src=(view==='master'?'../out/little-universe-review-hero-polish-edit.mp4':`hero-polish-${view}-comparison.mp4`)+(start?`#t=${start}`:'');
+const lastFrame=view==='master'?5519:view==='player'?362:386;
+video.addEventListener('timeupdate',()=>document.getElementById('status').textContent=
+ `${view}: ${video.currentTime.toFixed(3)}s / frame ${Math.min(lastFrame,Math.floor(video.currentTime*30))}`);
+</script>
